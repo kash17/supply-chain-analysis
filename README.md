@@ -99,24 +99,6 @@ Key steps performed:
 
 ---
 
-## 📷 Dashboard Preview
-
-
-
-```
-images/dashboard_page1.png
-<img width="1327" height="752" alt="dashboard_page1" src="https://github.com/user-attachments/assets/0e89325e-e38e-4d8b-ab30-662e1c2a2c50" />
-
-images/dashboard_page2.png
-<img width="1327" height="796" alt="dashboard_page2" src="https://github.com/user-attachments/assets/bfed95a2-0c48-40ff-94ce-43959dc70b95" />
-
-images/dashboard_page3.png
-<img width="1320" height="793" alt="dashboard_page3" src="https://github.com/user-attachments/assets/699c0c61-fbca-422f-961f-d00b36cd1685" />
-
-```
-
----
-
 ## 🎯 Business Impact
 
 This dashboard helps:
