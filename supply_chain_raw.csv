@@ -1,0 +1,1001 @@
+order_id,order_date,product_id,product_name,category,supplier_name,warehouse,stock_quantity,order_quantity,cost_price,selling_price,delivery_days,region
+ORD003010,2024/11/09,P250,Notebook,Maintenance,"Global Distributors","Pune WH",?,188,176.09,135.42,7,West
+ORD003191,,P269,Pen,Utilities,"LMN Corp","Pune WH",923,1,204.73,179.5,8,North
+ORD003192,12/09/2024,P192,Notebook,Utilities,"LMN Corp","Delhi WH",577,111,17.59,255.88,7,West
+ORD003193,2024/07/20,P129,"Printer Paper",Maintenance,"LMN Corp","Pune WH",996,0,39.93,143.62,7,North
+ORD003194,2024-13-01,P181,Notebook,Stationary,"ABC Supplies","Mumbai WH",602,90,23.17,99.02,8,North
+ORD003195,2024/02/25,P113,"Cleaning Liquid",Stationary,"XYZ Traders","Delhi WH",452,154,?,192.78,,North
+ORD003196,28/02/2024,P151,"Water Bottle",Stationary,"LMN Corp","Chennai WH",697,112,51.71,315.01,1,North
+ORD003197,2024/09/26,P124,Pen,Utilities,"LMN Corp","Delhi WH",-50,177,172.82,192.67,two,South
+ORD003198,2024/07/10,P115,"Water Bottle",Maintenance,"LMN Corp","Chennai WH",177,119,113.33,182.15,10,South
+ORD003199,2024/08/13,P249,"Cleaning Liquid",Stationary,"ABC Supplies","Mumbai WH",NULL,57,36.17,315.41,8,West
+ORD003200,2024/08/01,P278,"Water Bottle",Maintenance,"XYZ Traders","Pune WH",?,138,12.92,60.12,10,North
+ORD003181,,P213,"Printer Paper",Utilities,"LMN Corp","Delhi WH",803,179,107.8,112.7,10,East
+ORD003182,2024-13-01,P195,"Cleaning Liquid",Utilities,"ABC Supplies","Pune WH",998,119,134.56,192.53,1,South
+ORD003183,2024/12/09,P123,"Water Bottle",Utilities,"ABC Supplies","Pune WH",228,166,153.79,105.4,,East
+ORD003184,24/10/2024,P277,"Cleaning Liquid",Stationary,"XYZ Traders","Delhi WH",685,88,55.99,NULL,10,North
+ORD003185,2024/11/05,P299,Pen,Stationary,"ABC Supplies","Delhi WH",472,124,114.03,130.01,5,East
+ORD003186,2024/07/27,P245,"Cleaning Liquid",Utilities,"XYZ Traders","Delhi WH",513,118,120.5,98.65,,West
+ORD003187,,P268,"Cleaning Liquid",Maintenance,"ABC Supplies","Delhi WH",456,99,49.58,137.51,9,East
+ORD003188,2024/12/22,P266,Notebook,Maintenance,"Global Distributors","Chennai WH",472,3,75.3,65.14,,East
+ORD003189,2024/08/24,P172,"Cleaning Liquid",Stationary,"XYZ Traders","Chennai WH",124,10,?,248.05,5,West
+ORD003190,2024-13-01,P156,"Water Bottle",Stationary,"Global Distributors","Chennai WH",267,78,50.98,157.37,2,East
+ORD003171,2024/02/27,P232,"Water Bottle",Stationary,"XYZ Traders","Pune WH",NULL,65,134.77,316.99,7,South
+ORD003172,2024-13-01,P251,"Cleaning Liquid",Stationary,"Global Distributors","Chennai WH",937,79,120.99,345.63,9,East
+ORD003173,,P235,Marker,Stationary,"LMN Corp","Delhi WH",671,198,50.88,340.09,3,North
+ORD003174,2024/07/07,P298,Pen,Stationary,"Global Distributors","Pune WH",63,122,69.1,83.47,5,South
+ORD003175,2024/09/19,P210,Marker,Utilities,"Global Distributors","Delhi WH",604,120,209.81,216.75,two,South
+ORD003176,2024-13-01,P156,"Printer Paper",Utilities,"LMN Corp","Mumbai WH",400,71,32.55,325.67,two,North
+ORD003177,03/03/2024,P211,Notebook,Maintenance,"LMN Corp","Delhi WH",238,68,84.38,NULL,3,South
+ORD003178,16/08/2024,P299,"Printer Paper",Utilities,"XYZ Traders","Chennai WH",537,NULL,124.29,229.22,5,South
+ORD003179,,P251,Pen,Maintenance,"ABC Supplies","Chennai WH",291,83,90.77,328,9,West
+ORD003180,,P184,"Water Bottle",Stationary,"XYZ Traders","Chennai WH",393,86,145.03,330.3,3,North
+ORD003161,2024/06/29,P157,"Cleaning Liquid",Maintenance,"Global Distributors","Chennai WH",269,183,186.98,213.09,9,West
+ORD003162,,P114,"Water Bottle",Utilities,"Global Distributors","Chennai WH",495,132,160.83,162.66,9,West
+ORD003163,2024/08/30,P189,Notebook,Maintenance,"XYZ Traders","Pune WH",?,0,140.48,205.49,6,East
+ORD003164,2024-12-16,P150,Pen,Stationary,"LMN Corp","Mumbai WH",?,57,97.59,276.06,3,North
+ORD003165,2024/12/04,P242,"Water Bottle",Maintenance,"ABC Supplies","Mumbai WH",602,15,197.81,91.62,,East
+ORD003166,2024/05/12,P243,Pen,Utilities,"ABC Supplies","Mumbai WH",NULL,82,147.82,165.36,,South
+ORD003167,2024-13-01,P234,Pen,Stationary,"Global Distributors","Chennai WH",827,87,120.95,231.14,two,North
+ORD003168,2024-13-01,P163,"Printer Paper",Maintenance,"ABC Supplies","Mumbai WH",730,184,199.82,274.23,4,East
+ORD003169,2024/11/08,P291,Notebook,Stationary,"XYZ Traders","Delhi WH",NULL,3,142.27,172.8,two,East
+ORD003170,30/12/2024,P242,Marker,Maintenance,"Global Distributors","Pune WH",71,0,62,203.32,4,North
+ORD003151,2024/04/05,P154,Marker,Stationary,"LMN Corp","Pune WH",142,0,50.55,NULL,10,East
+ORD003152,2024-13-01,P181,"Cleaning Liquid",Stationary,"LMN Corp","Mumbai WH",?,18,108.79,209.25,5,North
+ORD003153,2024-12-29,P137,"Cleaning Liquid",Stationary,"XYZ Traders","Mumbai WH",352,81,129.8,269.91,9,South
+ORD003154,,P289,"Printer Paper",Utilities,"Global Distributors","Chennai WH",NULL,84,?,253.13,8,North
+ORD003155,2024/02/03,P164,Notebook,Maintenance,"XYZ Traders","Pune WH",372,0,19.84,273.65,3,East
+ORD003156,,P295,Pen,Stationary,"XYZ Traders","Delhi WH",?,92,190.61,348.24,8,South
+ORD003157,2024-13-01,P116,"Printer Paper",Stationary,"XYZ Traders","Chennai WH",802,164,95.97,277.18,2,West
+ORD003158,2024/07/19,P108,Marker,Maintenance,"LMN Corp","Chennai WH",700,173,44.11,176.6,4,North
+ORD003159,2024-13-01,P100,Notebook,Utilities,"ABC Supplies","Delhi WH",111,0,12.71,124.65,7,North
+ORD003160,,P158,Notebook,Stationary,"LMN Corp","Chennai WH",177,151,109.3,240.78,2,East
+ORD003141,2024-13-01,P204,Marker,Stationary,"LMN Corp","Delhi WH",239,10,106.73,268.01,1,West
+ORD003142,,P191,"Cleaning Liquid",Maintenance,"Global Distributors","Delhi WH",466,118,133.67,173.07,7,South
+ORD003143,,P231,Notebook,Utilities,"XYZ Traders","Chennai WH",?,142,119.3,344.42,7,East
+ORD003144,07/06/2024,P282,Notebook,Utilities,"Global Distributors","Mumbai WH",?,49,61.52,251.91,5,East
+ORD003145,2024/02/03,P275,"Printer Paper",Maintenance,"XYZ Traders","Delhi WH",-50,141,133.05,145.89,8,North
+ORD003146,04/12/2024,P127,"Cleaning Liquid",Stationary,"LMN Corp","Mumbai WH",602,71,93.17,253.15,,East
+ORD003147,2024-13-01,P236,Pen,Utilities,"XYZ Traders","Pune WH",282,75,208.07,172.23,two,East
+ORD003148,23/01/2024,P295,"Water Bottle",Utilities,"Global Distributors","Pune WH",159,0,16.21,160.45,3,North
+ORD003149,2024/04/27,P217,"Cleaning Liquid",Stationary,"XYZ Traders","Chennai WH",330,143,128.12,278.04,,East
+ORD003150,2024-13-01,P145,"Cleaning Liquid",Maintenance,"ABC Supplies","Delhi WH",102,62,113.95,65.75,8,South
+ORD003131,,P208,Marker,Utilities,"ABC Supplies","Mumbai WH",-50,103,192.73,254.94,7,West
+ORD003132,07/07/2024,P191,"Water Bottle",Utilities,"LMN Corp","Chennai WH",NULL,58,20.43,156.34,10,East
+ORD003133,,P203,Pen,Maintenance,"ABC Supplies","Pune WH",225,0,147.87,135.01,,West
+ORD003134,2024/11/19,P126,"Printer Paper",Maintenance,"XYZ Traders","Chennai WH",547,62,167.43,90.33,1,South
+ORD003135,2024/10/01,P113,"Printer Paper",Stationary,"XYZ Traders","Mumbai WH",387,94,145.18,220.47,8,North
+ORD003136,02/12/2024,P192,Marker,Utilities,"XYZ Traders","Mumbai WH",366,115,144.91,242.04,,West
+ORD003137,2024-13-01,P160,Notebook,Utilities,"Global Distributors","Mumbai WH",600,70,27.64,201.89,2,West
+ORD003138,2024/08/10,P247,"Cleaning Liquid",Stationary,"ABC Supplies","Pune WH",561,48,20.15,279.5,,North
+ORD003139,2024-08-18,P149,Pen,Maintenance,"Global Distributors","Delhi WH",112,4,80.72,206.25,3,East
+ORD003140,2024/08/14,P211,"Cleaning Liquid",Maintenance,"ABC Supplies","Chennai WH",760,103,144.25,80.22,two,East
+ORD003121,,P278,"Water Bottle",Maintenance,"XYZ Traders","Chennai WH",303,168,48.42,66.24,7,West
+ORD003122,15/02/2024,P137,Marker,Stationary,"LMN Corp","Pune WH",897,185,189.81,266.62,1,North
+ORD003123,2024-13-01,P131,Marker,Utilities,"LMN Corp","Pune WH",?,59,105.3,162.75,7,East
+ORD003124,24/09/2024,P213,Marker,Utilities,"LMN Corp","Chennai WH",187,108,86.55,161.01,10,East
+ORD003125,,P201,Pen,Stationary,"Global Distributors","Pune WH",301,57,?,289.84,,West
+ORD003126,,P178,Notebook,Stationary,"LMN Corp","Chennai WH",979,35,53.5,214.21,8,North
+ORD003127,02/02/2024,P125,Pen,Utilities,"XYZ Traders","Chennai WH",NULL,179,154.4,240.4,10,East
+ORD003128,2024-13-01,P196,"Cleaning Liquid",Utilities,"XYZ Traders","Mumbai WH",12,56,144.25,107.23,1,North
+ORD003129,,P176,"Water Bottle",Stationary,"XYZ Traders","Mumbai WH",313,0,11.66,137.37,7,West
+ORD003130,2024-13-01,P168,Marker,Stationary,"XYZ Traders","Chennai WH",788,177,56.88,185.54,1,East
+ORD003111,2024-13-01,P112,Marker,Maintenance,"ABC Supplies","Pune WH",400,194,186.41,53.83,8,South
+ORD003112,24/09/2024,P148,"Printer Paper",Stationary,"LMN Corp","Chennai WH",333,61,124.83,92.68,8,East
+ORD003113,2024/08/24,P118,Marker,Utilities,"ABC Supplies","Chennai WH",208,0,197.74,184.47,,South
+ORD003114,2024/04/13,P257,"Printer Paper",Stationary,"Global Distributors","Pune WH",307,79,13.63,284.33,10,East
+ORD003115,2024-13-01,P255,"Water Bottle",Utilities,"XYZ Traders","Pune WH",992,58,91.56,89.26,4,North
+ORD003116,2024-01-07,P129,"Water Bottle",Maintenance,"Global Distributors","Mumbai WH",NULL,34,169.35,231.42,10,South
+ORD003117,,P220,Notebook,Maintenance,"ABC Supplies","Mumbai WH",706,142,180.45,279.56,5,South
+ORD003118,,P189,Marker,Utilities,"LMN Corp","Pune WH",314,147,79.72,348.94,8,West
+ORD003119,,P237,Pen,Utilities,"LMN Corp","Chennai WH",780,107,41.36,92.39,6,East
+ORD003120,28/03/2024,P136,Notebook,Utilities,"XYZ Traders","Chennai WH",418,8,179.61,270.59,2,East
+ORD003101,2024/10/26,P146,"Water Bottle",Maintenance,"ABC Supplies","Mumbai WH",?,0,105.42,207.26,two,South
+ORD003102,08/12/2024,P125,"Water Bottle",Maintenance,"ABC Supplies","Chennai WH",761,99,60.95,159.35,8,South
+ORD003103,2024/10/13,P133,Pen,Maintenance,"ABC Supplies","Pune WH",NULL,29,165.55,187.85,2,South
+ORD003104,11/07/2024,P137,Pen,Stationary,"Global Distributors","Chennai WH",116,0,111.16,153.98,two,West
+ORD003105,05/07/2024,P137,Pen,Utilities,"Global Distributors","Delhi WH",581,186,59.26,139.32,two,North
+ORD003106,06/09/2024,P182,"Printer Paper",Maintenance,"Global Distributors","Mumbai WH",970,26,160.86,95.31,,South
+ORD003107,04/11/2024,P237,"Cleaning Liquid",Utilities,"XYZ Traders","Chennai WH",797,41,106.68,142.48,two,South
+ORD003108,,P211,Marker,Maintenance,"ABC Supplies","Pune WH",755,158,99.71,169.07,2,West
+ORD003109,,P124,Marker,Utilities,"ABC Supplies","Pune WH",181,14,175.77,84.97,6,North
+ORD003110,2024-13-01,P257,"Cleaning Liquid",Utilities,"Global Distributors","Mumbai WH",541,NULL,26.12,184.85,6,North
+ORD003291,2024/09/22,P211,Marker,Utilities,"Global Distributors","Pune WH",126,152,12.65,170.19,9,East
+ORD003292,,P129,"Printer Paper",Maintenance,"LMN Corp","Delhi WH",NULL,138,31.94,311.88,1,South
+ORD003293,,P199,"Cleaning Liquid",Stationary,"LMN Corp","Pune WH",699,95,51.56,247.08,6,South
+ORD003294,10/12/2024,P236,Marker,Maintenance,"LMN Corp","Delhi WH",285,179,24.78,153.84,6,West
+ORD003295,,P100,Marker,Maintenance,"Global Distributors","Chennai WH",851,0,32.4,136.29,7,West
+ORD003296,,P254,"Water Bottle",Stationary,"ABC Supplies","Chennai WH",668,46,181.45,108.52,1,West
+ORD003297,,P266,"Water Bottle",Utilities,"XYZ Traders","Mumbai WH",NULL,101,45.06,283.67,10,West
+ORD003298,12/10/2024,P237,"Printer Paper",Utilities,"LMN Corp","Chennai WH",NULL,112,119.39,145.91,,North
+ORD003299,21/07/2024,P251,"Printer Paper",Stationary,"ABC Supplies","Chennai WH",-50,122,182.84,327.35,5,South
+ORD003300,20/04/2024,P170,"Cleaning Liquid",Stationary,"LMN Corp","Pune WH",672,18,21.86,142.62,10,South
+ORD003281,2024/10/26,P241,"Printer Paper",Stationary,"ABC Supplies","Mumbai WH",NULL,NULL,132.77,203.42,,South
+ORD003282,11/01/2024,P105,"Printer Paper",Stationary,"Global Distributors","Chennai WH",456,98,67.31,50.22,8,North
+ORD003283,09/02/2024,P299,Marker,Stationary,"LMN Corp","Pune WH",NULL,67,15.83,201.69,9,East
+ORD003284,,P100,Pen,Utilities,"Global Distributors","Delhi WH",587,0,178.43,332.04,6,East
+ORD003285,2024-13-01,P143,"Water Bottle",Stationary,"LMN Corp","Pune WH",339,33,144.44,135.24,1,West
+ORD003286,2024/02/04,P283,Notebook,Maintenance,"LMN Corp","Delhi WH",563,63,152.02,234.57,two,North
+ORD003287,2024/06/18,P281,"Printer Paper",Maintenance,"LMN Corp","Chennai WH",275,53,62.91,232.09,,North
+ORD003288,,P227,"Water Bottle",Utilities,"LMN Corp","Mumbai WH",530,168,35.44,295.09,8,East
+ORD003289,2024/05/23,P290,Marker,Stationary,"XYZ Traders","Delhi WH",911,29,119.06,54.89,two,North
+ORD003290,,P248,"Cleaning Liquid",Maintenance,"XYZ Traders","Mumbai WH",568,173,95.97,161.55,two,West
+ORD003271,2024/07/12,P200,"Cleaning Liquid",Stationary,"LMN Corp","Mumbai WH",239,73,55.8,62.41,6,North
+ORD003272,2024/02/27,P191,"Water Bottle",Maintenance,"Global Distributors","Pune WH",?,99,77.54,330.79,10,South
+ORD003273,,P232,"Cleaning Liquid",Maintenance,"Global Distributors","Delhi WH",NULL,108,79.64,271.68,9,South
+ORD003274,2024/04/14,P156,Marker,Maintenance,"ABC Supplies","Mumbai WH",-50,133,146.51,338.83,,East
+ORD003275,20/02/2024,P127,Notebook,Maintenance,"Global Distributors","Mumbai WH",?,72,54.07,324.31,5,West
+ORD003276,2024-13-01,P146,Notebook,Utilities,"Global Distributors","Pune WH",118,129,95.31,136.15,4,West
+ORD003277,2024/11/09,P117,"Cleaning Liquid",Stationary,"LMN Corp","Pune WH",989,148,?,284.33,5,South
+ORD003278,01/03/2024,P253,Pen,Utilities,"ABC Supplies","Delhi WH",475,81,100.02,319.03,4,South
+ORD003279,2024-08-13,P171,"Cleaning Liquid",Utilities,"XYZ Traders","Delhi WH",491,57,148.28,214.78,4,West
+ORD003280,2024/11/03,P172,Notebook,Stationary,"LMN Corp","Chennai WH",882,155,203.58,171.92,,North
+ORD003261,,P106,Notebook,Utilities,"LMN Corp","Pune WH",344,135,92.15,265.93,3,West
+ORD003262,,P136,"Printer Paper",Utilities,"Global Distributors","Delhi WH",858,0,19.79,218.56,3,North
+ORD003263,,P174,"Printer Paper",Stationary,"XYZ Traders","Pune WH",?,176,135.24,336.01,6,North
+ORD003264,2024/07/07,P133,Notebook,Maintenance,"Global Distributors","Chennai WH",672,44,23.17,122.91,,South
+ORD003265,,P222,Marker,Maintenance,"XYZ Traders","Delhi WH",319,NULL,16.02,119.78,,North
+ORD003266,2024/06/17,P163,Notebook,Stationary,"Global Distributors","Mumbai WH",637,155,29.86,321.74,two,North
+ORD003267,,P181,Notebook,Stationary,"XYZ Traders","Chennai WH",213,83,34.49,215.49,7,West
+ORD003268,05/01/2024,P227,"Printer Paper",Maintenance,"LMN Corp","Mumbai WH",76,91,83.24,300.55,7,North
+ORD003269,2024-13-01,P178,"Printer Paper",Utilities,"LMN Corp","Chennai WH",837,0,33.13,316.51,7,East
+ORD003270,2024/11/06,P279,"Cleaning Liquid",Maintenance,"ABC Supplies","Mumbai WH",197,90,104.69,326.46,two,West
+ORD003251,,P248,Marker,Stationary,"ABC Supplies","Chennai WH",264,127,197.76,75.57,,North
+ORD003252,2024/05/04,P152,Notebook,Utilities,"XYZ Traders","Delhi WH",-50,52,?,108.59,6,East
+ORD003253,2024/08/01,P229,Pen,Utilities,"Global Distributors","Pune WH",214,101,?,336.25,6,North
+ORD003254,,P149,Marker,Maintenance,"ABC Supplies","Delhi WH",61,10,119.44,327.85,two,South
+ORD003255,08/06/2024,P282,Notebook,Utilities,"Global Distributors","Delhi WH",NULL,0,52.41,243.43,4,South
+ORD003256,2024/12/29,P263,"Printer Paper",Stationary,"Global Distributors","Delhi WH",723,132,46.1,185.82,5,North
+ORD003257,21/07/2024,P250,"Printer Paper",Stationary,"ABC Supplies","Chennai WH",838,130,123.81,333.16,7,East
+ORD003258,,P126,"Water Bottle",Utilities,"Global Distributors","Chennai WH",199,107,149.31,172.58,9,South
+ORD003259,24/03/2024,P283,"Cleaning Liquid",Maintenance,"Global Distributors","Mumbai WH",642,104,181.06,209.02,5,North
+ORD003260,07/10/2024,P179,"Water Bottle",Stationary,"XYZ Traders","Delhi WH",118,100,19.76,174.54,3,East
+ORD003241,2024-01-17,P151,"Printer Paper",Maintenance,"XYZ Traders","Delhi WH",587,105,50.98,99.45,4,East
+ORD003242,2024/06/02,P211,Marker,Maintenance,"ABC Supplies","Delhi WH",761,94,42.09,294.54,,South
+ORD003243,2024-13-01,P190,"Printer Paper",Stationary,"LMN Corp","Mumbai WH",686,58,79.79,51.57,1,West
+ORD003244,,P159,Notebook,Utilities,"Global Distributors","Chennai WH",617,173,185.66,315.24,6,West
+ORD003245,2024-13-01,P286,"Printer Paper",Utilities,"LMN Corp","Chennai WH",962,NULL,122.92,145.11,2,West
+ORD003246,,P236,"Printer Paper",Stationary,"XYZ Traders","Pune WH",566,136,42.81,336.49,5,West
+ORD003247,,P147,Notebook,Utilities,"ABC Supplies","Delhi WH",487,20,13.09,166.5,4,West
+ORD003248,01/09/2024,P273,Notebook,Stationary,"ABC Supplies","Pune WH",NULL,134,41.14,324.89,,East
+ORD003249,2024/04/17,P270,Pen,Utilities,"LMN Corp","Delhi WH",558,189,59.48,100.11,3,North
+ORD003250,2024-13-01,P233,"Water Bottle",Maintenance,"XYZ Traders","Pune WH",NULL,139,10.78,292.04,9,North
+ORD003231,21/09/2024,P137,"Water Bottle",Stationary,"ABC Supplies","Chennai WH",557,12,177.86,163.85,5,West
+ORD003232,14/04/2024,P129,"Cleaning Liquid",Maintenance,"Global Distributors","Pune WH",NULL,76,147.21,230.77,10,East
+ORD003233,24/07/2024,P150,Marker,Stationary,"Global Distributors","Chennai WH",158,159,100.61,184.35,7,West
+ORD003234,2024/07/17,P158,"Water Bottle",Stationary,"Global Distributors","Mumbai WH",612,105,63.05,138.85,4,East
+ORD003235,,P113,Marker,Utilities,"XYZ Traders","Delhi WH",424,125,191.46,223.55,2,North
+ORD003236,,P184,"Printer Paper",Maintenance,"Global Distributors","Mumbai WH",404,8,58.94,132.23,,South
+ORD003237,,P279,"Printer Paper",Utilities,"XYZ Traders","Chennai WH",316,114,126.59,330.69,9,South
+ORD003238,2024-03-16,P215,Notebook,Utilities,"ABC Supplies","Pune WH",290,53,22.67,287.32,9,South
+ORD003239,,P162,"Water Bottle",Maintenance,"LMN Corp","Mumbai WH",263,96,113.61,196.03,2,East
+ORD003240,2024/11/09,P129,"Printer Paper",Utilities,"XYZ Traders","Pune WH",NULL,81,183.87,309.22,3,North
+ORD003221,2024-13-01,P107,"Cleaning Liquid",Utilities,"LMN Corp","Pune WH",202,0,14.01,202.19,6,West
+ORD003222,,P163,Notebook,Utilities,"Global Distributors","Pune WH",?,103,?,191.14,7,East
+ORD003223,2024-13-01,P124,Pen,Utilities,"ABC Supplies","Delhi WH",811,151,92.72,56.88,9,North
+ORD003224,14/01/2024,P129,Marker,Maintenance,"LMN Corp","Mumbai WH",441,0,119.34,92.45,4,North
+ORD003225,2024/06/05,P162,Notebook,Utilities,"XYZ Traders","Delhi WH",250,0,198.01,298.33,7,South
+ORD003226,16/07/2024,P190,Marker,Maintenance,"XYZ Traders","Mumbai WH",356,10,?,194.71,,West
+ORD003227,,P158,"Cleaning Liquid",Maintenance,"ABC Supplies","Mumbai WH",493,7,56.14,67.72,,North
+ORD003228,2024-13-01,P244,"Water Bottle",Utilities,"LMN Corp","Mumbai WH",?,19,77.95,227.8,5,South
+ORD003229,2024/06/29,P134,Pen,Utilities,"Global Distributors","Mumbai WH",?,124,48.65,73.38,4,North
+ORD003230,,P184,"Printer Paper",Maintenance,"XYZ Traders","Chennai WH",NULL,168,108.01,NULL,3,East
+ORD003211,2024/11/19,P125,"Cleaning Liquid",Utilities,"LMN Corp","Delhi WH",708,9,50.85,188.06,2,West
+ORD003212,2024/05/15,P148,"Printer Paper",Maintenance,"XYZ Traders","Chennai WH",903,173,134.85,60.34,,North
+ORD003213,2024/01/09,P100,"Cleaning Liquid",Maintenance,"Global Distributors","Delhi WH",545,126,148.63,198.77,,East
+ORD003214,24/05/2024,P277,Notebook,Utilities,"XYZ Traders","Delhi WH",NULL,62,123.27,339.42,7,South
+ORD003215,2024/03/01,P251,Notebook,Stationary,"Global Distributors","Mumbai WH",-50,155,206.9,262.28,1,South
+ORD003216,2024-13-01,P189,"Printer Paper",Stationary,"XYZ Traders","Mumbai WH",860,148,47.54,311.53,9,East
+ORD003217,17/08/2024,P217,"Printer Paper",Utilities,"LMN Corp","Delhi WH",891,101,141.05,320.02,9,East
+ORD003218,,P219,Pen,Utilities,"Global Distributors","Pune WH",499,134,113.08,267.66,,East
+ORD003219,,P103,"Water Bottle",Utilities,"LMN Corp","Chennai WH",759,33,108.9,316.55,7,West
+ORD003220,,P266,"Water Bottle",Utilities,"Global Distributors","Mumbai WH",380,157,170.87,115.08,9,East
+ORD003201,,P107,Marker,Maintenance,"ABC Supplies","Chennai WH",328,0,128.02,336.17,5,East
+ORD003202,2024/07/24,P220,Notebook,Maintenance,"ABC Supplies","Mumbai WH",128,NULL,168.87,289.1,two,East
+ORD003203,,P213,"Water Bottle",Utilities,"XYZ Traders","Chennai WH",15,10,124.91,187.65,6,North
+ORD003204,2024/09/05,P131,"Water Bottle",Stationary,"ABC Supplies","Pune WH",930,16,?,235.74,3,West
+ORD003205,2024/03/21,P115,"Water Bottle",Utilities,"LMN Corp","Delhi WH",943,112,66.6,147.49,2,East
+ORD003206,2024/04/07,P167,"Cleaning Liquid",Utilities,"XYZ Traders","Mumbai WH",720,74,125.99,245.69,,North
+ORD003207,2024/10/10,P265,"Water Bottle",Utilities,"XYZ Traders","Delhi WH",74,107,52.96,117.23,9,West
+ORD003208,2024/03/08,P277,"Cleaning Liquid",Maintenance,"Global Distributors","Mumbai WH",909,93,102.59,221.56,9,West
+ORD003209,13/05/2024,P172,"Water Bottle",Utilities,"ABC Supplies","Pune WH",389,145,160.79,285.47,two,West
+ORD003210,2024/09/27,P228,"Cleaning Liquid",Maintenance,"Global Distributors","Delhi WH",-50,125,76.1,240.71,two,West
+ORD003391,2024/09/22,P275,Notebook,Utilities,"XYZ Traders","Chennai WH",NULL,38,153.56,317.42,7,West
+ORD003392,26/04/2024,P169,"Water Bottle",Maintenance,"ABC Supplies","Delhi WH",313,147,144.46,94.34,5,West
+ORD003393,,P117,"Cleaning Liquid",Utilities,"Global Distributors","Pune WH",473,0,44.63,75.82,,North
+ORD003394,2024/05/27,P128,Pen,Stationary,"Global Distributors","Chennai WH",471,157,209.83,315.64,3,East
+ORD003395,2024/05/30,P134,Marker,Utilities,"ABC Supplies","Chennai WH",NULL,188,59.24,105.43,8,East
+ORD003396,2024/10/25,P194,"Cleaning Liquid",Stationary,"LMN Corp","Mumbai WH",523,78,191,248.24,7,East
+ORD003397,2024/09/27,P215,Marker,Utilities,"LMN Corp","Mumbai WH",-50,NULL,190.72,56.25,10,East
+ORD003398,2024/06/11,P103,"Water Bottle",Maintenance,"XYZ Traders","Pune WH",382,14,39.96,106.04,10,West
+ORD003399,,P252,Marker,Utilities,"ABC Supplies","Pune WH",NULL,97,73.82,245.8,10,West
+ORD003400,17/08/2024,P108,Pen,Utilities,"LMN Corp","Pune WH",NULL,32,155.79,169.9,,South
+ORD003381,02/04/2024,P138,Notebook,Utilities,"LMN Corp","Mumbai WH",143,29,73.2,246.75,4,East
+ORD003382,06/12/2024,P187,Pen,Utilities,"ABC Supplies","Mumbai WH",669,11,203.56,309.92,8,North
+ORD003383,31/03/2024,P268,Pen,Maintenance,"LMN Corp","Chennai WH",623,188,?,192.82,7,East
+ORD003384,2024/08/18,P156,Marker,Maintenance,"ABC Supplies","Delhi WH",NULL,0,99.22,NULL,10,East
+ORD003385,06/03/2024,P260,Pen,Maintenance,"ABC Supplies","Delhi WH",NULL,84,179.38,142.82,8,West
+ORD003386,06/05/2024,P173,"Water Bottle",Maintenance,"Global Distributors","Pune WH",577,58,158.55,195.72,2,East
+ORD003387,2024/06/30,P176,Pen,Maintenance,"XYZ Traders","Chennai WH",682,70,?,280.6,10,West
+ORD003388,,P251,Notebook,Stationary,"Global Distributors","Pune WH",425,28,86.61,NULL,3,South
+ORD003389,,P172,Pen,Maintenance,"ABC Supplies","Pune WH",313,NULL,143.96,222.97,3,North
+ORD003390,2024-13-01,P164,Marker,Maintenance,"ABC Supplies","Delhi WH",914,198,61.88,53.84,4,West
+ORD003371,,P130,Pen,Stationary,"LMN Corp","Chennai WH",533,166,179.44,NULL,,West
+ORD003372,2024/07/12,P252,Notebook,Maintenance,"LMN Corp","Delhi WH",54,188,62.01,NULL,,West
+ORD003373,2024/07/07,P174,Notebook,Utilities,"ABC Supplies","Chennai WH",107,80,78.53,313.67,4,East
+ORD003374,2024/06/01,P179,"Water Bottle",Utilities,"Global Distributors","Chennai WH",892,71,150.29,84.72,7,East
+ORD003375,2024/09/05,P138,"Cleaning Liquid",Stationary,"LMN Corp","Chennai WH",417,56,17.56,104.97,,North
+ORD003376,28/04/2024,P199,Marker,Stationary,"Global Distributors","Chennai WH",268,0,179.5,343.22,10,West
+ORD003377,,P162,Pen,Stationary,"LMN Corp","Delhi WH",551,194,121.11,284.67,4,North
+ORD003378,2024-13-01,P126,"Water Bottle",Stationary,"LMN Corp","Pune WH",365,164,82.67,194.33,two,East
+ORD003379,21/03/2024,P220,Pen,Maintenance,"LMN Corp","Pune WH",253,85,162.45,245.97,7,South
+ORD003380,09/06/2024,P111,"Cleaning Liquid",Maintenance,"LMN Corp","Chennai WH",119,64,?,218.98,4,West
+ORD003361,2024/07/22,P230,Marker,Maintenance,"ABC Supplies","Pune WH",?,76,170.65,NULL,,South
+ORD003362,,P180,Pen,Maintenance,"XYZ Traders","Pune WH",218,45,118.42,123.14,two,East
+ORD003363,2024/02/25,P182,Marker,Maintenance,"XYZ Traders","Pune WH",57,3,19.86,285.74,8,West
+ORD003364,2024-13-01,P155,"Water Bottle",Stationary,"XYZ Traders","Pune WH",861,100,79.05,NULL,two,West
+ORD003365,,P293,"Water Bottle",Maintenance,"ABC Supplies","Pune WH",270,112,36.76,198.34,,South
+ORD003366,08/08/2024,P202,"Water Bottle",Stationary,"Global Distributors","Chennai WH",502,67,140.99,177.46,,West
+ORD003367,2024-13-01,P225,Pen,Stationary,"XYZ Traders","Delhi WH",588,31,196.94,154.92,6,North
+ORD003368,2024/12/14,P165,"Water Bottle",Maintenance,"Global Distributors","Mumbai WH",?,13,163.5,339.85,9,East
+ORD003369,,P102,Pen,Maintenance,"LMN Corp","Chennai WH",NULL,61,125.99,121.14,9,North
+ORD003370,2024/06/08,P285,Notebook,Maintenance,"ABC Supplies","Delhi WH",457,91,80.95,233.82,two,North
+ORD003351,06/01/2024,P272,Notebook,Maintenance,"Global Distributors","Mumbai WH",16,33,25.59,346.33,,West
+ORD003352,,P150,Notebook,Utilities,"ABC Supplies","Pune WH",?,NULL,166.33,NULL,3,West
+ORD003353,10/12/2024,P125,"Water Bottle",Utilities,"Global Distributors","Delhi WH",957,12,156.3,145.31,3,South
+ORD003354,15/12/2024,P236,Marker,Utilities,"LMN Corp","Delhi WH",12,1,52.72,51.55,,East
+ORD003355,,P206,Pen,Maintenance,"LMN Corp","Pune WH",872,17,195.74,311.18,,East
+ORD003356,,P179,Marker,Utilities,"LMN Corp","Mumbai WH",-50,167,28.34,110.6,,West
+ORD003357,2024-13-01,P286,Marker,Stationary,"LMN Corp","Pune WH",504,0,141.2,319.83,,South
+ORD003358,2024/04/04,P177,"Printer Paper",Utilities,"Global Distributors","Mumbai WH",247,0,61.54,249.33,6,East
+ORD003359,,P293,Notebook,Stationary,"Global Distributors","Mumbai WH",437,148,16.39,326.71,8,West
+ORD003360,,P148,"Water Bottle",Maintenance,"XYZ Traders","Chennai WH",142,55,61.37,162.39,3,East
+ORD003341,2024-13-01,P206,"Water Bottle",Stationary,"XYZ Traders","Mumbai WH",NULL,160,117.4,345.04,4,North
+ORD003342,2024/04/05,P147,Pen,Utilities,"LMN Corp","Chennai WH",821,43,122.14,263.67,5,East
+ORD003343,2024-11-14,P246,"Printer Paper",Maintenance,"Global Distributors","Mumbai WH",627,NULL,57.82,132.49,,East
+ORD003344,2024/06/06,P116,"Printer Paper",Stationary,"ABC Supplies","Mumbai WH",143,NULL,25.64,168.08,7,West
+ORD003345,2024/02/25,P280,"Printer Paper",Utilities,"Global Distributors","Delhi WH",572,173,26.2,273.95,3,East
+ORD003346,2024/12/14,P290,"Cleaning Liquid",Utilities,"XYZ Traders","Delhi WH",?,138,200.64,312.48,,North
+ORD003347,,P177,"Printer Paper",Utilities,"XYZ Traders","Delhi WH",561,0,128.39,NULL,,West
+ORD003348,,P263,Marker,Stationary,"LMN Corp","Chennai WH",235,194,10.93,149.62,6,West
+ORD003349,2024/01/28,P234,"Printer Paper",Maintenance,"Global Distributors","Chennai WH",?,18,17.41,309.22,,West
+ORD003350,2024/08/20,P128,"Water Bottle",Utilities,"LMN Corp","Delhi WH",NULL,0,24.69,324.46,6,North
+ORD003331,2024-13-01,P262,"Water Bottle",Utilities,"XYZ Traders","Mumbai WH",426,2,82.08,274.96,,West
+ORD003332,2024/01/05,P277,Pen,Stationary,"XYZ Traders","Chennai WH",NULL,88,130.7,190.34,4,North
+ORD003333,,P268,Pen,Maintenance,"Global Distributors","Pune WH",73,65,65.18,131.77,2,East
+ORD003334,2024/08/28,P162,Marker,Maintenance,"ABC Supplies","Chennai WH",295,15,176.13,72.21,4,West
+ORD003335,,P204,Notebook,Stationary,"ABC Supplies","Delhi WH",212,175,126.63,100.58,two,East
+ORD003336,2024-13-01,P118,Notebook,Maintenance,"XYZ Traders","Mumbai WH",77,120,15.03,NULL,two,West
+ORD003337,13/05/2024,P254,"Water Bottle",Utilities,"XYZ Traders","Delhi WH",?,112,44.15,105.61,7,West
+ORD003338,2024/09/28,P240,Notebook,Stationary,"Global Distributors","Pune WH",530,128,?,349.01,5,West
+ORD003339,2024/02/26,P176,Pen,Stationary,"ABC Supplies","Pune WH",NULL,38,102.08,55.59,1,East
+ORD003340,2024-13-01,P263,Pen,Utilities,"LMN Corp","Pune WH",283,79,114.18,151.49,5,West
+ORD003321,,P255,"Cleaning Liquid",Stationary,"LMN Corp","Delhi WH",NULL,NULL,160.88,84.61,6,South
+ORD003322,,P275,Notebook,Utilities,"LMN Corp","Delhi WH",217,32,132.55,101.08,9,West
+ORD003323,27/06/2024,P274,"Cleaning Liquid",Maintenance,"LMN Corp","Mumbai WH",223,96,202.09,315.58,,North
+ORD003324,,P226,Pen,Stationary,"XYZ Traders","Delhi WH",-50,62,147.94,137.91,5,West
+ORD003325,2024-13-01,P169,"Printer Paper",Stationary,"ABC Supplies","Pune WH",NULL,6,30.64,247.58,2,West
+ORD003326,2024/04/01,P127,"Cleaning Liquid",Stationary,"LMN Corp","Pune WH",NULL,50,209.1,238.74,5,West
+ORD003327,2024/03/18,P118,"Water Bottle",Maintenance,"LMN Corp","Chennai WH",910,77,117.47,271.17,,West
+ORD003328,,P135,"Printer Paper",Utilities,"XYZ Traders","Chennai WH",333,127,125.63,124,7,East
+ORD003329,,P295,"Printer Paper",Maintenance,"ABC Supplies","Chennai WH",NULL,33,58.33,81.67,5,East
+ORD003330,2024-13-01,P149,"Printer Paper",Utilities,"ABC Supplies","Chennai WH",894,197,97.18,172,7,South
+ORD003311,,P201,Pen,Maintenance,"LMN Corp","Pune WH",889,101,184.33,343.97,7,East
+ORD003312,2024-07-17,P103,Pen,Stationary,"Global Distributors","Pune WH",NULL,0,191.73,241.01,7,South
+ORD003313,2024-13-01,P163,Marker,Stationary,"XYZ Traders","Chennai WH",NULL,49,63.46,309.38,,South
+ORD003314,2024-13-01,P141,"Printer Paper",Maintenance,"ABC Supplies","Delhi WH",?,112,28.64,258.96,9,West
+ORD003315,2024-13-01,P149,Pen,Maintenance,"ABC Supplies","Pune WH",NULL,33,37.23,67.18,5,East
+ORD003316,,P161,Marker,Maintenance,"Global Distributors","Chennai WH",966,12,20.32,181.15,two,East
+ORD003317,25/01/2024,P295,"Water Bottle",Utilities,"LMN Corp","Pune WH",505,35,173.01,312.59,4,South
+ORD003318,2024/03/05,P127,"Printer Paper",Utilities,"XYZ Traders","Mumbai WH",349,80,179.27,186.72,,South
+ORD003319,2024-13-01,P119,Pen,Utilities,"Global Distributors","Mumbai WH",NULL,133,19.21,304.58,two,South
+ORD003320,,P199,Pen,Maintenance,"XYZ Traders","Pune WH",145,138,55.93,85.95,4,East
+ORD003301,2024/02/05,P161,Notebook,Stationary,"Global Distributors","Pune WH",?,169,33.85,238.83,10,West
+ORD003302,2024/12/24,P250,"Water Bottle",Maintenance,"Global Distributors","Delhi WH",52,158,159.95,80.88,2,West
+ORD003303,,P173,Marker,Stationary,"XYZ Traders","Delhi WH",799,133,193.58,185.45,6,East
+ORD003304,28/07/2024,P215,"Printer Paper",Stationary,"Global Distributors","Pune WH",692,102,10.43,172.57,10,North
+ORD003305,,P216,Notebook,Stationary,"ABC Supplies","Pune WH",758,183,16.54,160.35,10,East
+ORD003306,,P192,"Water Bottle",Utilities,"LMN Corp","Pune WH",NULL,51,154.08,162,3,West
+ORD003307,,P151,"Printer Paper",Utilities,"LMN Corp","Chennai WH",393,156,156.34,313.03,,South
+ORD003308,2024-13-01,P221,"Printer Paper",Maintenance,"XYZ Traders","Chennai WH",NULL,65,168.59,90.32,6,South
+ORD003309,,P115,Marker,Stationary,"XYZ Traders","Delhi WH",538,188,13,293.59,3,West
+ORD003310,2024/08/10,P276,Marker,Stationary,"XYZ Traders","Pune WH",229,132,108.6,165.91,two,East
+ORD003491,,P139,"Water Bottle",Utilities,"Global Distributors","Delhi WH",NULL,0,?,190.76,9,South
+ORD003492,27/05/2024,P228,"Cleaning Liquid",Stationary,"ABC Supplies","Chennai WH",30,117,19.43,226.6,1,West
+ORD003493,2024/12/19,P207,"Water Bottle",Stationary,"ABC Supplies","Mumbai WH",-50,136,107.47,84.89,3,South
+ORD003494,2024/03/18,P270,Marker,Utilities,"ABC Supplies","Chennai WH",331,41,110.02,241,1,South
+ORD003495,,P211,"Printer Paper",Utilities,"Global Distributors","Mumbai WH",948,196,153.61,289.92,two,South
+ORD003496,2024-06-24,P184,Marker,Stationary,"XYZ Traders","Delhi WH",974,3,135.57,279.69,2,West
+ORD003497,,P103,"Cleaning Liquid",Utilities,"LMN Corp","Mumbai WH",?,109,123.9,315.39,1,West
+ORD003498,2024-13-01,P266,"Printer Paper",Maintenance,"ABC Supplies","Pune WH",32,134,29.87,NULL,,East
+ORD003499,2024/08/08,P224,Notebook,Utilities,"XYZ Traders","Pune WH",102,45,19.88,317.87,9,East
+ORD003500,2024-13-01,P166,Marker,Maintenance,"LMN Corp","Mumbai WH",470,11,97.97,NULL,,South
+ORD003481,,P215,"Water Bottle",Utilities,"LMN Corp","Pune WH",681,17,134.34,58.46,5,South
+ORD003482,2024/11/24,P118,"Water Bottle",Utilities,"ABC Supplies","Chennai WH",120,76,92.3,163.26,6,South
+ORD003483,,P175,"Water Bottle",Maintenance,"XYZ Traders","Pune WH",NULL,90,171.57,138.65,2,East
+ORD003484,2024-13-01,P128,Notebook,Utilities,"LMN Corp","Pune WH",?,47,190.05,335.55,5,West
+ORD003485,2024/05/13,P245,Marker,Utilities,"ABC Supplies","Pune WH",901,168,198.62,NULL,10,West
+ORD003486,10/09/2024,P111,Notebook,Maintenance,"XYZ Traders","Delhi WH",-50,0,64.44,203.39,7,North
+ORD003487,19/09/2024,P299,"Water Bottle",Stationary,"XYZ Traders","Pune WH",200,42,79.81,266.39,10,West
+ORD003488,05/12/2024,P163,"Water Bottle",Stationary,"LMN Corp","Chennai WH",417,43,64.98,126.51,10,East
+ORD003489,2024/01/20,P267,"Printer Paper",Utilities,"ABC Supplies","Chennai WH",619,169,187.01,109.93,two,East
+ORD003490,,P293,Notebook,Utilities,"XYZ Traders","Pune WH",?,4,195.99,192.21,10,East
+ORD003471,2024/04/29,P197,Pen,Maintenance,"Global Distributors","Chennai WH",795,70,84.29,312.41,5,North
+ORD003472,,P251,"Printer Paper",Stationary,"LMN Corp","Mumbai WH",532,17,60.26,348.92,4,East
+ORD003473,2024/03/14,P144,Marker,Maintenance,"Global Distributors","Mumbai WH",NULL,116,67.05,NULL,5,South
+ORD003474,2024/02/29,P151,"Water Bottle",Stationary,"Global Distributors","Chennai WH",244,153,195.39,264.54,8,West
+ORD003475,,P104,"Water Bottle",Maintenance,"ABC Supplies","Pune WH",556,138,144,201.37,10,West
+ORD003476,,P292,Notebook,Utilities,"LMN Corp","Pune WH",464,10,76.99,313.39,two,South
+ORD003477,07/10/2024,P177,Marker,Maintenance,"Global Distributors","Pune WH",621,23,129.3,126.07,8,North
+ORD003478,08/12/2024,P150,Pen,Utilities,"XYZ Traders","Pune WH",773,191,38.71,76.18,7,West
+ORD003479,2024/08/10,P265,Notebook,Stationary,"XYZ Traders","Mumbai WH",258,168,17.3,89.38,,West
+ORD003480,2024-13-01,P125,Pen,Utilities,"XYZ Traders","Mumbai WH",389,182,151.58,122.06,,South
+ORD003461,2024-12-19,P157,Marker,Maintenance,"XYZ Traders","Delhi WH",508,191,178.49,169.76,,West
+ORD003462,2024-13-01,P209,Marker,Maintenance,"ABC Supplies","Delhi WH",73,24,?,332.66,1,North
+ORD003463,14/11/2024,P155,"Water Bottle",Stationary,"Global Distributors","Mumbai WH",NULL,NULL,92.73,261.53,7,North
+ORD003464,,P261,"Printer Paper",Maintenance,"LMN Corp","Chennai WH",?,90,199.08,321.59,5,East
+ORD003465,,P177,"Printer Paper",Stationary,"Global Distributors","Chennai WH",-50,162,168.63,NULL,3,West
+ORD003466,2024/09/12,P100,"Cleaning Liquid",Utilities,"Global Distributors","Chennai WH",180,65,49.49,285.81,,North
+ORD003467,,P153,"Cleaning Liquid",Stationary,"LMN Corp","Chennai WH",330,189,113.93,150.5,3,West
+ORD003468,2024-13-01,P141,"Cleaning Liquid",Maintenance,"Global Distributors","Mumbai WH",488,0,66.43,61.81,3,South
+ORD003469,,P179,Marker,Utilities,"LMN Corp","Delhi WH",?,113,86.13,81.45,6,East
+ORD003470,2024/07/03,P275,"Cleaning Liquid",Maintenance,"ABC Supplies","Delhi WH",192,132,209.41,337.86,9,North
+ORD003451,,P220,Marker,Maintenance,"XYZ Traders","Mumbai WH",280,184,143.08,151.15,5,East
+ORD003452,2024/12/21,P284,"Water Bottle",Maintenance,"XYZ Traders","Mumbai WH",423,178,131.34,201.73,,East
+ORD003453,2024-02-22,P253,Pen,Maintenance,"XYZ Traders","Mumbai WH",877,178,127.46,92.06,1,East
+ORD003454,2024/01/25,P267,"Cleaning Liquid",Utilities,"ABC Supplies","Mumbai WH",?,175,175.89,309.04,8,West
+ORD003455,29/06/2024,P299,Pen,Utilities,"Global Distributors","Pune WH",NULL,121,202.05,285.08,1,South
+ORD003456,,P202,"Printer Paper",Stationary,"Global Distributors","Pune WH",989,160,116.54,319.15,3,South
+ORD003457,2024/04/15,P229,Pen,Maintenance,"XYZ Traders","Pune WH",332,0,76.51,98.95,,West
+ORD003458,2024/11/23,P203,"Cleaning Liquid",Maintenance,"Global Distributors","Pune WH",?,71,168.46,NULL,,West
+ORD003459,2024/08/27,P284,Marker,Utilities,"XYZ Traders","Chennai WH",457,43,136.71,68.78,3,South
+ORD003460,,P184,"Printer Paper",Utilities,"ABC Supplies","Chennai WH",NULL,21,?,88.13,two,West
+ORD003441,,P161,Marker,Utilities,"LMN Corp","Delhi WH",163,60,?,267.61,9,North
+ORD003442,2024/11/04,P273,"Water Bottle",Utilities,"XYZ Traders","Pune WH",455,129,150.88,215.55,,West
+ORD003443,2024/10/24,P170,Notebook,Utilities,"LMN Corp","Mumbai WH",NULL,130,153,263.5,,South
+ORD003444,2024/10/19,P239,"Printer Paper",Stationary,"ABC Supplies","Delhi WH",931,74,179.5,268.33,two,West
+ORD003445,2024/12/14,P102,Notebook,Maintenance,"XYZ Traders","Chennai WH",?,0,60.05,195.29,two,East
+ORD003446,2024-13-01,P105,"Printer Paper",Utilities,"LMN Corp","Pune WH",413,194,150.61,234.66,6,North
+ORD003447,2024/12/22,P143,"Printer Paper",Stationary,"ABC Supplies","Pune WH",NULL,109,119.14,180.42,10,South
+ORD003448,2024/06/30,P211,Notebook,Maintenance,"Global Distributors","Chennai WH",198,153,102.3,314.91,6,East
+ORD003449,2024-13-01,P236,Notebook,Stationary,"LMN Corp","Mumbai WH",-50,136,80.29,213.18,,South
+ORD003450,2024/05/27,P243,Pen,Maintenance,"LMN Corp","Mumbai WH",67,66,199.79,55.07,5,South
+ORD003431,28/10/2024,P224,Marker,Stationary,"XYZ Traders","Mumbai WH",NULL,19,48.34,278.14,1,East
+ORD003432,2024-13-01,P167,Notebook,Stationary,"LMN Corp","Pune WH",550,119,95.19,269.48,,South
+ORD003433,,P221,Pen,Maintenance,"Global Distributors","Mumbai WH",119,2,157.1,307.36,9,West
+ORD003434,2024-13-01,P195,Notebook,Maintenance,"LMN Corp","Chennai WH",354,NULL,179.35,57.05,6,North
+ORD003435,2024-13-01,P196,Notebook,Maintenance,"ABC Supplies","Pune WH",391,0,135.17,153.93,2,East
+ORD003436,17/02/2024,P120,"Printer Paper",Stationary,"Global Distributors","Mumbai WH",NULL,12,130.35,316.84,8,West
+ORD003437,2024/02/08,P233,"Printer Paper",Stationary,"LMN Corp","Mumbai WH",171,194,94.56,129.46,10,East
+ORD003438,2024-13-01,P234,"Cleaning Liquid",Stationary,"Global Distributors","Pune WH",NULL,0,132.07,64.32,4,North
+ORD003439,09/08/2024,P194,Marker,Utilities,"ABC Supplies","Chennai WH",144,144,95.83,242.19,9,West
+ORD003440,20/05/2024,P196,Notebook,Maintenance,"LMN Corp","Pune WH",493,114,180.61,71.74,4,South
+ORD003421,29/09/2024,P169,Pen,Utilities,"LMN Corp","Pune WH",NULL,0,20.14,225.93,4,East
+ORD003422,2024/09/18,P124,Pen,Maintenance,"ABC Supplies","Delhi WH",45,NULL,142.15,174.41,8,East
+ORD003423,2024/08/10,P121,"Water Bottle",Stationary,"Global Distributors","Mumbai WH",?,166,120.5,347.67,3,East
+ORD003424,18/01/2024,P299,"Cleaning Liquid",Stationary,"XYZ Traders","Pune WH",761,27,180.45,334.21,10,South
+ORD003425,,P101,"Cleaning Liquid",Stationary,"Global Distributors","Chennai WH",-50,189,188.6,181.82,4,East
+ORD003426,2024-13-01,P279,Pen,Utilities,"LMN Corp","Mumbai WH",NULL,5,47.75,149.25,10,West
+ORD003427,2024/06/15,P132,Pen,Maintenance,"XYZ Traders","Delhi WH",723,187,189.67,245.66,2,East
+ORD003428,,P192,Marker,Utilities,"LMN Corp","Pune WH",759,53,15.1,75.29,1,North
+ORD003429,2024-13-01,P264,Pen,Maintenance,"LMN Corp","Delhi WH",512,109,195.09,243.23,7,North
+ORD003430,,P208,"Cleaning Liquid",Utilities,"LMN Corp","Delhi WH",?,121,26.01,63.56,,South
+ORD003411,2024-13-01,P230,"Cleaning Liquid",Utilities,"ABC Supplies","Chennai WH",2,24,171.86,132.3,2,West
+ORD003412,2024-12-07,P147,Pen,Stationary,"Global Distributors","Pune WH",952,189,66.92,311.72,,North
+ORD003413,2024/09/15,P295,"Water Bottle",Maintenance,"ABC Supplies","Chennai WH",279,55,203.63,315.47,,West
+ORD003414,2024-13-01,P244,Pen,Utilities,"LMN Corp","Chennai WH",764,52,55.36,334.8,7,North
+ORD003415,2024/08/13,P167,"Water Bottle",Stationary,"ABC Supplies","Chennai WH",-50,50,147.64,288.44,two,East
+ORD003416,2024/04/28,P175,"Cleaning Liquid",Utilities,"XYZ Traders","Mumbai WH",502,151,193.31,234.17,8,North
+ORD003417,2024/06/15,P114,"Cleaning Liquid",Maintenance,"Global Distributors","Pune WH",518,40,181.15,174.87,4,West
+ORD003418,,P238,"Cleaning Liquid",Maintenance,"Global Distributors","Mumbai WH",342,90,79.62,206.61,2,West
+ORD003419,2024/01/06,P148,Notebook,Stationary,"ABC Supplies","Pune WH",885,48,209.78,293.35,2,South
+ORD003420,2024-13-01,P177,Notebook,Stationary,"ABC Supplies","Chennai WH",NULL,0,105.03,321.41,4,West
+ORD003401,,P136,"Cleaning Liquid",Stationary,"LMN Corp","Pune WH",949,126,?,74.75,5,North
+ORD003402,2024/03/03,P115,"Cleaning Liquid",Stationary,"Global Distributors","Mumbai WH",-50,17,91.34,329.46,,South
+ORD003403,,P192,Pen,Maintenance,"LMN Corp","Delhi WH",-50,0,76.64,52.82,,South
+ORD003404,2024-13-01,P213,Notebook,Maintenance,"ABC Supplies","Chennai WH",NULL,108,?,194.25,9,South
+ORD003405,03/11/2024,P295,Pen,Maintenance,"XYZ Traders","Mumbai WH",884,106,88.27,248.21,,North
+ORD003406,2024/12/14,P148,Pen,Maintenance,"Global Distributors","Chennai WH",NULL,109,120.26,207.92,,North
+ORD003407,26/10/2024,P108,"Water Bottle",Utilities,"LMN Corp","Pune WH",342,158,60.18,235.89,8,West
+ORD003408,2024/07/21,P217,Notebook,Utilities,"ABC Supplies","Mumbai WH",309,85,141.73,247.35,4,East
+ORD003409,,P116,Marker,Utilities,"XYZ Traders","Chennai WH",447,85,?,133.43,7,North
+ORD003410,,P224,Marker,Utilities,"XYZ Traders","Delhi WH",NULL,134,160.88,138.48,9,East
+ORD003591,2024/05/25,P179,"Water Bottle",Maintenance,"LMN Corp","Pune WH",?,NULL,131.74,150.02,4,North
+ORD003592,2024-13-01,P261,Pen,Utilities,"Global Distributors","Mumbai WH",-50,193,120.33,280.64,5,North
+ORD003593,23/09/2024,P159,Notebook,Utilities,"Global Distributors","Chennai WH",140,116,52.52,286.36,,North
+ORD003594,2024-13-01,P151,"Cleaning Liquid",Maintenance,"LMN Corp","Mumbai WH",410,29,98.04,62.63,7,South
+ORD003595,,P104,Marker,Maintenance,"LMN Corp","Mumbai WH",85,53,53.17,252.09,6,West
+ORD003596,2024/03/27,P171,"Printer Paper",Stationary,"XYZ Traders","Mumbai WH",826,91,176.74,268.29,10,South
+ORD003597,24/09/2024,P182,"Cleaning Liquid",Stationary,"ABC Supplies","Pune WH",905,0,54.16,NULL,4,West
+ORD003598,,P281,"Printer Paper",Utilities,"XYZ Traders","Pune WH",625,15,157.05,132.74,7,North
+ORD003599,2024/10/07,P241,Notebook,Stationary,"LMN Corp","Chennai WH",585,90,32.29,60.43,1,West
+ORD003600,,P265,Marker,Stationary,"Global Distributors","Chennai WH",85,28,131.48,123.47,,West
+ORD003581,2024/10/29,P226,"Water Bottle",Utilities,"XYZ Traders","Delhi WH",NULL,114,187.26,253.83,7,South
+ORD003582,2024/02/19,P233,"Cleaning Liquid",Utilities,"XYZ Traders","Pune WH",?,0,155.48,130.08,3,South
+ORD003583,29/02/2024,P156,"Cleaning Liquid",Maintenance,"XYZ Traders","Pune WH",371,58,25.88,310.79,two,East
+ORD003584,2024-13-01,P172,Marker,Utilities,"LMN Corp","Mumbai WH",201,75,?,305.19,9,North
+ORD003585,27/04/2024,P192,Pen,Stationary,"LMN Corp","Chennai WH",475,108,176.34,328.49,,West
+ORD003586,2024/11/22,P132,"Printer Paper",Stationary,"LMN Corp","Mumbai WH",634,123,118.75,281.73,two,East
+ORD003587,,P184,"Printer Paper",Maintenance,"Global Distributors","Mumbai WH",29,102,195.95,59.96,two,North
+ORD003588,11/09/2024,P139,"Cleaning Liquid",Maintenance,"LMN Corp","Pune WH",NULL,43,12.91,151.58,two,North
+ORD003589,,P201,"Cleaning Liquid",Utilities,"Global Distributors","Delhi WH",314,0,203.85,61.51,two,West
+ORD003590,2024-13-01,P168,Pen,Stationary,"Global Distributors","Chennai WH",261,182,162.75,133.51,two,North
+ORD003571,2024/02/17,P200,"Printer Paper",Stationary,"XYZ Traders","Mumbai WH",956,36,67.84,306.98,two,South
+ORD003572,2024/09/17,P170,Marker,Maintenance,"ABC Supplies","Chennai WH",-50,23,38.56,246.96,two,West
+ORD003573,2024-13-01,P227,Pen,Utilities,"LMN Corp","Chennai WH",434,168,74.77,226.34,1,South
+ORD003574,2024-12-17,P296,"Printer Paper",Stationary,"LMN Corp","Pune WH",NULL,NULL,92.7,174.15,,West
+ORD003575,2024-13-01,P215,Marker,Utilities,"ABC Supplies","Pune WH",905,30,39.49,178.06,5,West
+ORD003576,2024-13-01,P102,Marker,Stationary,"XYZ Traders","Chennai WH",685,19,117.35,143.43,,West
+ORD003577,,P144,Marker,Utilities,"XYZ Traders","Mumbai WH",-50,136,19.07,271.6,9,North
+ORD003578,2024/06/04,P233,"Printer Paper",Stationary,"XYZ Traders","Chennai WH",NULL,90,97.99,132.24,9,North
+ORD003579,,P250,"Printer Paper",Stationary,"XYZ Traders","Pune WH",810,164,134.51,180.09,5,West
+ORD003580,,P207,"Printer Paper",Maintenance,"XYZ Traders","Delhi WH",NULL,NULL,161.4,158.85,,South
+ORD003561,2024/04/01,P226,Pen,Stationary,"XYZ Traders","Chennai WH",-50,134,139.62,122.94,1,East
+ORD003562,2024/05/26,P115,Notebook,Maintenance,"Global Distributors","Delhi WH",909,158,34.73,112.88,5,South
+ORD003563,2024/08/08,P175,"Printer Paper",Stationary,"Global Distributors","Mumbai WH",593,68,136.11,319.86,9,East
+ORD003564,2024-13-01,P167,Marker,Maintenance,"Global Distributors","Pune WH",300,27,93.08,243.3,7,East
+ORD003565,2024/10/24,P261,Marker,Utilities,"Global Distributors","Chennai WH",?,64,27.56,280.41,8,North
+ORD003566,2024/04/25,P146,Notebook,Utilities,"XYZ Traders","Delhi WH",798,140,22.36,300.52,3,North
+ORD003567,18/05/2024,P218,"Water Bottle",Stationary,"ABC Supplies","Pune WH",739,18,?,198.25,,West
+ORD003568,23/01/2024,P146,"Cleaning Liquid",Stationary,"ABC Supplies","Chennai WH",644,53,74.7,273,4,North
+ORD003569,,P139,Pen,Maintenance,"Global Distributors","Pune WH",194,75,70.96,170.44,2,West
+ORD003570,,P164,Marker,Maintenance,"ABC Supplies","Mumbai WH",?,99,94.46,213.8,2,East
+ORD003551,2024-13-01,P288,Pen,Stationary,"LMN Corp","Mumbai WH",989,37,33.39,207.47,2,East
+ORD003552,2024/07/09,P100,Pen,Stationary,"LMN Corp","Chennai WH",289,94,112.81,210.32,10,West
+ORD003553,13/01/2024,P258,"Cleaning Liquid",Maintenance,"ABC Supplies","Pune WH",397,195,88.48,244.43,3,West
+ORD003554,,P212,"Cleaning Liquid",Utilities,"XYZ Traders","Chennai WH",?,23,86.22,106.66,,East
+ORD003555,,P151,"Cleaning Liquid",Maintenance,"XYZ Traders","Chennai WH",720,39,55.27,210.18,,South
+ORD003556,2024/07/04,P182,Marker,Utilities,"LMN Corp","Pune WH",40,37,159.72,208.73,3,West
+ORD003557,,P228,"Water Bottle",Stationary,"ABC Supplies","Mumbai WH",584,19,40.42,58.15,,North
+ORD003558,,P161,"Cleaning Liquid",Utilities,"LMN Corp","Pune WH",747,187,75.42,278.31,7,East
+ORD003559,,P137,"Water Bottle",Maintenance,"LMN Corp","Pune WH",NULL,55,47.15,57.11,10,South
+ORD003560,2024/03/09,P283,"Printer Paper",Utilities,"LMN Corp","Chennai WH",959,157,115.25,322.89,10,West
+ORD003541,06/12/2024,P168,"Cleaning Liquid",Utilities,"LMN Corp","Mumbai WH",NULL,32,64.11,254.77,10,West
+ORD003542,2024/06/16,P214,Pen,Maintenance,"ABC Supplies","Mumbai WH",382,165,40.98,201.73,7,South
+ORD003543,2024/04/06,P169,"Cleaning Liquid",Utilities,"XYZ Traders","Pune WH",268,76,188.35,203.69,10,East
+ORD003544,25/06/2024,P265,"Water Bottle",Maintenance,"LMN Corp","Pune WH",60,32,100.69,97.78,1,South
+ORD003545,2024/07/03,P209,Notebook,Utilities,"LMN Corp","Delhi WH",876,63,129.34,196.75,2,West
+ORD003546,2024-13-01,P236,"Printer Paper",Utilities,"LMN Corp","Mumbai WH",?,94,99.78,138.37,4,East
+ORD003547,,P244,Notebook,Utilities,"ABC Supplies","Pune WH",596,101,195.12,53.77,4,West
+ORD003548,,P239,"Cleaning Liquid",Stationary,"Global Distributors","Delhi WH",520,42,14.81,207.26,10,North
+ORD003549,2024/09/20,P158,Notebook,Utilities,"ABC Supplies","Mumbai WH",101,0,196.06,291.4,10,West
+ORD003550,,P166,"Cleaning Liquid",Maintenance,"ABC Supplies","Mumbai WH",63,133,185.46,249.23,6,South
+ORD003531,2024-09-19,P284,Pen,Utilities,"ABC Supplies","Pune WH",507,92,179.22,317.5,two,North
+ORD003532,2024/01/05,P203,Marker,Stationary,"XYZ Traders","Chennai WH",561,78,166.06,135.2,6,South
+ORD003533,01/11/2024,P283,"Printer Paper",Utilities,"Global Distributors","Pune WH",296,39,95.05,143.4,,West
+ORD003534,2024-13-01,P110,Notebook,Utilities,"XYZ Traders","Pune WH",673,111,63.34,60.12,8,North
+ORD003535,2024/02/11,P213,Pen,Maintenance,"XYZ Traders","Chennai WH",NULL,112,90.18,220.4,,West
+ORD003536,2024/09/12,P175,"Water Bottle",Maintenance,"LMN Corp","Mumbai WH",656,141,167.91,242.24,,East
+ORD003537,2024-13-01,P135,Marker,Utilities,"XYZ Traders","Pune WH",?,99,53.64,253.18,2,West
+ORD003538,,P278,"Printer Paper",Maintenance,"ABC Supplies","Mumbai WH",701,0,79.32,132.05,,West
+ORD003539,13/04/2024,P180,"Printer Paper",Utilities,"XYZ Traders","Mumbai WH",477,0,31.75,311.66,1,North
+ORD003540,,P259,Marker,Maintenance,"LMN Corp","Mumbai WH",572,173,145.55,75.35,7,East
+ORD003521,2024-02-20,P260,Marker,Utilities,"Global Distributors","Chennai WH",79,33,144.63,140.81,6,North
+ORD003522,2024/03/14,P275,"Water Bottle",Stationary,"ABC Supplies","Delhi WH",444,0,199.07,204.56,10,South
+ORD003523,2024-13-01,P276,"Water Bottle",Stationary,"LMN Corp","Delhi WH",376,32,26.42,77.92,,South
+ORD003524,,P271,"Water Bottle",Maintenance,"Global Distributors","Mumbai WH",876,150,136.2,111.98,8,East
+ORD003525,,P199,"Printer Paper",Maintenance,"LMN Corp","Pune WH",NULL,13,25.08,300.78,8,North
+ORD003526,,P228,"Printer Paper",Maintenance,"ABC Supplies","Chennai WH",205,151,43,141.73,two,North
+ORD003527,2024-13-01,P157,Notebook,Utilities,"LMN Corp","Delhi WH",105,45,49.36,260.7,7,South
+ORD003528,2024-04-23,P244,"Water Bottle",Stationary,"ABC Supplies","Delhi WH",59,0,49.36,167.22,8,East
+ORD003529,23/12/2024,P202,Marker,Utilities,"ABC Supplies","Pune WH",NULL,46,149.65,108.24,1,East
+ORD003530,2024/08/18,P288,"Water Bottle",Stationary,"Global Distributors","Chennai WH",793,194,171.15,222.76,6,East
+ORD003511,2024/06/14,P118,"Printer Paper",Stationary,"LMN Corp","Pune WH",666,153,156.2,50.13,3,West
+ORD003512,2024/08/28,P113,Pen,Utilities,"ABC Supplies","Mumbai WH",?,118,141.05,81.6,,South
+ORD003513,23/02/2024,P228,"Water Bottle",Maintenance,"XYZ Traders","Mumbai WH",253,35,50.23,116.72,two,North
+ORD003514,18/11/2024,P167,"Printer Paper",Stationary,"LMN Corp","Pune WH",?,179,141.4,178.03,,North
+ORD003515,2024-02-24,P268,"Water Bottle",Stationary,"ABC Supplies","Mumbai WH",529,117,?,260.93,,North
+ORD003516,2024/10/23,P161,"Printer Paper",Utilities,"LMN Corp","Pune WH",?,147,72.93,154.2,8,North
+ORD003517,11/10/2024,P262,"Water Bottle",Stationary,"LMN Corp","Chennai WH",290,72,65.72,58.67,,North
+ORD003518,2024-13-01,P246,Notebook,Utilities,"XYZ Traders","Mumbai WH",708,169,71.66,113.98,7,North
+ORD003519,2024/05/04,P134,"Cleaning Liquid",Maintenance,"Global Distributors","Chennai WH",73,82,86.66,216.29,,North
+ORD003520,,P131,Marker,Stationary,"XYZ Traders","Mumbai WH",519,166,27.12,93.19,10,West
+ORD003501,2024/05/06,P245,Marker,Maintenance,"ABC Supplies","Pune WH",350,69,?,152.66,10,West
+ORD003502,2024/08/19,P240,Marker,Maintenance,"Global Distributors","Delhi WH",NULL,88,120.13,NULL,10,East
+ORD003503,,P120,"Cleaning Liquid",Stationary,"ABC Supplies","Delhi WH",558,39,50.75,76.94,7,East
+ORD003504,2024-13-01,P246,Pen,Stationary,"ABC Supplies","Chennai WH",40,39,207.98,62.27,2,West
+ORD003505,29/06/2024,P292,Notebook,Maintenance,"LMN Corp","Delhi WH",NULL,NULL,66.74,70.88,9,East
+ORD003506,,P237,Marker,Stationary,"ABC Supplies","Chennai WH",NULL,112,34.58,134.66,two,North
+ORD003507,2024/12/18,P270,Pen,Stationary,"ABC Supplies","Mumbai WH",88,1,112.32,244.99,2,North
+ORD003508,2024/11/24,P137,Notebook,Utilities,"LMN Corp","Pune WH",880,116,78.71,134.55,9,North
+ORD003509,2024/04/21,P223,Notebook,Stationary,"LMN Corp","Delhi WH",648,39,199.79,127.61,10,East
+ORD003510,04/09/2024,P172,"Water Bottle",Maintenance,"LMN Corp","Mumbai WH",37,58,36.18,304.08,9,South
+ORD003691,05/11/2024,P138,Pen,Utilities,"XYZ Traders","Delhi WH",NULL,177,164.11,250.6,6,South
+ORD003692,2024-09-12,P259,"Cleaning Liquid",Maintenance,"XYZ Traders","Chennai WH",195,162,?,226.74,3,South
+ORD003693,2024/09/16,P146,"Printer Paper",Utilities,"ABC Supplies","Chennai WH",550,178,125.64,342.78,2,South
+ORD003694,2024/02/08,P203,Notebook,Maintenance,"XYZ Traders","Mumbai WH",NULL,169,13.09,243.08,two,West
+ORD003695,,P172,Notebook,Maintenance,"XYZ Traders","Delhi WH",?,70,208.85,260.71,1,West
+ORD003696,2024-13-01,P221,"Cleaning Liquid",Stationary,"Global Distributors","Pune WH",81,181,?,133.44,8,West
+ORD003697,,P131,"Cleaning Liquid",Utilities,"LMN Corp","Chennai WH",831,118,65.45,336.98,9,North
+ORD003698,,P292,Notebook,Utilities,"ABC Supplies","Delhi WH",816,NULL,56.95,128.98,3,South
+ORD003699,,P197,Notebook,Maintenance,"LMN Corp","Chennai WH",?,157,113.28,263.81,3,South
+ORD003700,08/08/2024,P270,Pen,Maintenance,"ABC Supplies","Delhi WH",550,NULL,171.36,141.81,7,East
+ORD003681,2024/09/22,P197,Notebook,Maintenance,"XYZ Traders","Delhi WH",751,0,124.63,268.67,6,South
+ORD003682,,P270,"Printer Paper",Utilities,"XYZ Traders","Pune WH",341,155,18.41,296.67,10,West
+ORD003683,12/03/2024,P188,Marker,Maintenance,"XYZ Traders","Mumbai WH",NULL,47,27.39,202.18,two,East
+ORD003684,07/09/2024,P156,Pen,Maintenance,"LMN Corp","Mumbai WH",?,164,56.45,59.87,5,East
+ORD003685,,P114,Notebook,Stationary,"ABC Supplies","Delhi WH",-50,139,120.71,119.19,6,South
+ORD003686,2024/10/21,P295,Pen,Utilities,"LMN Corp","Mumbai WH",92,130,78.54,240.59,10,West
+ORD003687,11/07/2024,P156,"Cleaning Liquid",Stationary,"ABC Supplies","Pune WH",NULL,96,142.14,107,4,East
+ORD003688,2024/03/13,P270,Marker,Maintenance,"Global Distributors","Pune WH",NULL,107,51.86,85.73,1,West
+ORD003689,2024/01/06,P254,"Water Bottle",Maintenance,"ABC Supplies","Pune WH",642,109,46.73,219.97,,East
+ORD003690,07/07/2024,P199,"Cleaning Liquid",Stationary,"ABC Supplies","Mumbai WH",NULL,198,131.77,234.06,,North
+ORD003671,,P168,Notebook,Maintenance,"LMN Corp","Delhi WH",NULL,125,159.25,212.61,two,South
+ORD003672,2024/07/31,P169,"Cleaning Liquid",Maintenance,"LMN Corp","Pune WH",-50,120,28.25,144.32,,West
+ORD003673,29/12/2024,P258,"Cleaning Liquid",Utilities,"Global Distributors","Delhi WH",-50,91,89.34,174.88,2,South
+ORD003674,19/01/2024,P136,"Water Bottle",Stationary,"ABC Supplies","Pune WH",NULL,133,172.48,176.34,5,North
+ORD003675,07/12/2024,P127,"Cleaning Liquid",Maintenance,"ABC Supplies","Delhi WH",365,20,201.49,127.3,two,North
+ORD003676,2024-13-01,P275,Notebook,Utilities,"ABC Supplies","Delhi WH",397,133,146.08,328.81,1,East
+ORD003677,2024/08/02,P204,"Cleaning Liquid",Maintenance,"Global Distributors","Delhi WH",946,183,21.13,285.26,2,South
+ORD003678,14/05/2024,P156,Notebook,Maintenance,"LMN Corp","Chennai WH",-50,142,140.27,342.4,8,South
+ORD003679,2024-13-01,P145,"Printer Paper",Stationary,"Global Distributors","Chennai WH",434,190,158.07,202.09,4,East
+ORD003680,28/05/2024,P192,"Printer Paper",Stationary,"ABC Supplies","Delhi WH",105,41,89.99,274.7,3,North
+ORD003661,2024/02/24,P138,Marker,Maintenance,"XYZ Traders","Chennai WH",NULL,0,154.07,102.62,9,South
+ORD003662,,P148,"Printer Paper",Maintenance,"XYZ Traders","Pune WH",NULL,59,204.48,283.45,,South
+ORD003663,2024-13-01,P193,Notebook,Utilities,"LMN Corp","Mumbai WH",75,38,96.36,185.13,6,South
+ORD003664,2024-13-01,P205,Marker,Maintenance,"XYZ Traders","Mumbai WH",662,93,109.52,129.61,1,North
+ORD003665,2024/04/11,P169,"Cleaning Liquid",Utilities,"Global Distributors","Pune WH",?,185,?,151.81,2,South
+ORD003666,2024-05-02,P145,"Printer Paper",Maintenance,"XYZ Traders","Mumbai WH",377,0,67.05,237.42,3,West
+ORD003667,04/10/2024,P242,Notebook,Stationary,"XYZ Traders","Mumbai WH",456,0,96.1,327.42,6,East
+ORD003668,,P148,Marker,Maintenance,"LMN Corp","Chennai WH",785,0,80.76,206.71,8,North
+ORD003669,2024/06/25,P199,"Printer Paper",Maintenance,"XYZ Traders","Chennai WH",19,50,96.49,327.21,two,South
+ORD003670,22/04/2024,P171,"Cleaning Liquid",Stationary,"LMN Corp","Mumbai WH",NULL,114,134.65,255.46,two,North
+ORD003651,,P267,Pen,Utilities,"ABC Supplies","Delhi WH",665,59,26.64,NULL,1,West
+ORD003652,2024/10/26,P108,"Water Bottle",Maintenance,"ABC Supplies","Chennai WH",870,41,108.52,200.45,,East
+ORD003653,2024-13-01,P261,"Water Bottle",Utilities,"XYZ Traders","Mumbai WH",159,56,45.28,287.02,5,East
+ORD003654,2024-13-01,P107,"Cleaning Liquid",Utilities,"LMN Corp","Mumbai WH",173,84,49.91,53.37,3,East
+ORD003655,2024/01/07,P247,Marker,Maintenance,"LMN Corp","Chennai WH",500,152,161.96,226.06,2,South
+ORD003656,,P291,"Cleaning Liquid",Stationary,"XYZ Traders","Pune WH",?,77,32.29,244.59,9,North
+ORD003657,2024/01/12,P290,"Water Bottle",Utilities,"XYZ Traders","Pune WH",363,196,140.09,207.85,,West
+ORD003658,,P174,Pen,Maintenance,"ABC Supplies","Delhi WH",439,0,209.85,210.45,,East
+ORD003659,2024-13-01,P109,Marker,Stationary,"XYZ Traders","Chennai WH",53,180,?,273.45,,West
+ORD003660,2024/07/29,P289,"Cleaning Liquid",Stationary,"LMN Corp","Delhi WH",?,185,48.22,141.24,,South
+ORD003641,2024/08/26,P138,"Cleaning Liquid",Utilities,"ABC Supplies","Mumbai WH",145,174,200.08,NULL,1,North
+ORD003642,05/04/2024,P288,"Cleaning Liquid",Maintenance,"ABC Supplies","Pune WH",748,NULL,114.78,243.46,7,North
+ORD003643,2024-13-01,P228,Marker,Stationary,"LMN Corp","Pune WH",?,NULL,?,NULL,two,West
+ORD003644,2024/10/15,P165,Notebook,Utilities,"ABC Supplies","Mumbai WH",845,133,87.99,172.75,9,North
+ORD003645,2024/01/10,P237,Pen,Maintenance,"XYZ Traders","Delhi WH",496,75,?,254.8,5,East
+ORD003646,2024/01/30,P177,"Water Bottle",Stationary,"LMN Corp","Chennai WH",622,148,185.79,51.17,,North
+ORD003647,27/05/2024,P263,"Cleaning Liquid",Maintenance,"Global Distributors","Pune WH",?,170,12.2,204.54,6,North
+ORD003648,2024/03/26,P165,"Cleaning Liquid",Maintenance,"Global Distributors","Pune WH",937,131,70.95,315.69,,South
+ORD003649,,P257,Notebook,Stationary,"ABC Supplies","Chennai WH",NULL,78,18.83,143.6,6,North
+ORD003650,,P144,"Printer Paper",Stationary,"ABC Supplies","Mumbai WH",335,50,115.07,265.21,3,South
+ORD003631,,P279,"Water Bottle",Maintenance,"LMN Corp","Chennai WH",191,81,36.1,286.86,two,East
+ORD003632,07/08/2024,P291,"Cleaning Liquid",Stationary,"ABC Supplies","Pune WH",?,86,88.06,204.32,3,North
+ORD003633,,P257,Pen,Stationary,"Global Distributors","Chennai WH",96,26,95.66,338.83,4,South
+ORD003634,30/05/2024,P267,"Cleaning Liquid",Stationary,"LMN Corp","Delhi WH",NULL,129,158.97,151.63,9,East
+ORD003635,2024/09/04,P115,Pen,Utilities,"XYZ Traders","Pune WH",770,89,94.86,64.59,,South
+ORD003636,2024/08/31,P125,Marker,Maintenance,"ABC Supplies","Chennai WH",866,153,36.06,214.7,8,East
+ORD003637,,P155,Notebook,Maintenance,"ABC Supplies","Pune WH",283,NULL,35.25,123.12,2,West
+ORD003638,,P135,"Printer Paper",Utilities,"ABC Supplies","Mumbai WH",418,26,199.4,295.51,,West
+ORD003639,08/07/2024,P141,Pen,Maintenance,"LMN Corp","Mumbai WH",570,174,132.7,286.88,3,West
+ORD003640,2024/03/14,P185,Marker,Utilities,"XYZ Traders","Pune WH",404,150,104.22,108.65,6,North
+ORD003621,2024-02-13,P117,"Printer Paper",Stationary,"LMN Corp","Mumbai WH",390,70,20.35,288.95,6,South
+ORD003622,10/11/2024,P112,"Water Bottle",Utilities,"Global Distributors","Pune WH",869,NULL,166.89,220.67,9,West
+ORD003623,,P221,"Cleaning Liquid",Utilities,"XYZ Traders","Mumbai WH",112,0,22.38,91.85,,South
+ORD003624,,P285,Notebook,Stationary,"ABC Supplies","Mumbai WH",447,37,90.7,NULL,8,North
+ORD003625,2024/06/26,P205,Notebook,Stationary,"Global Distributors","Chennai WH",844,25,69.63,208.96,6,South
+ORD003626,06/10/2024,P219,"Water Bottle",Utilities,"ABC Supplies","Pune WH",117,119,61.97,216.79,8,North
+ORD003627,2024/04/07,P148,Pen,Stationary,"ABC Supplies","Pune WH",430,134,131.97,207.69,1,South
+ORD003628,2024-13-01,P299,"Water Bottle",Maintenance,"XYZ Traders","Delhi WH",340,0,75.04,347.99,8,West
+ORD003629,2024/01/25,P294,"Water Bottle",Utilities,"ABC Supplies","Delhi WH",436,153,88.29,212,two,South
+ORD003630,2024/04/17,P110,Pen,Maintenance,"LMN Corp","Pune WH",753,194,152.04,274.64,4,West
+ORD003611,2024/01/19,P138,"Water Bottle",Utilities,"Global Distributors","Delhi WH",?,85,72.7,88.47,9,South
+ORD003612,10/07/2024,P211,Notebook,Utilities,"ABC Supplies","Pune WH",394,70,18.53,241.39,1,North
+ORD003613,20/06/2024,P136,Marker,Maintenance,"XYZ Traders","Chennai WH",936,NULL,15.57,200.09,5,North
+ORD003614,2024/05/16,P193,Notebook,Maintenance,"Global Distributors","Delhi WH",172,0,157.5,170.94,two,West
+ORD003615,,P261,"Cleaning Liquid",Stationary,"XYZ Traders","Pune WH",542,198,?,268.2,4,North
+ORD003616,08/10/2024,P207,Pen,Stationary,"Global Distributors","Mumbai WH",NULL,148,148.69,196.41,,South
+ORD003617,2024/09/19,P176,"Water Bottle",Utilities,"ABC Supplies","Mumbai WH",699,NULL,53.79,311.61,1,South
+ORD003618,2024/03/31,P190,Marker,Stationary,"XYZ Traders","Chennai WH",15,85,76.22,185.96,6,East
+ORD003619,2024-13-01,P213,"Water Bottle",Stationary,"XYZ Traders","Delhi WH",?,51,124.15,211.57,,North
+ORD003620,2024-13-01,P254,Marker,Maintenance,"Global Distributors","Pune WH",583,107,82.88,NULL,8,South
+ORD003601,2024/04/07,P147,Pen,Stationary,"Global Distributors","Chennai WH",774,3,115.88,313.77,8,East
+ORD003602,,P235,"Water Bottle",Stationary,"ABC Supplies","Chennai WH",219,20,103.92,56.23,,North
+ORD003603,17/02/2024,P225,"Water Bottle",Maintenance,"Global Distributors","Mumbai WH",996,83,16.97,317.56,2,East
+ORD003604,,P187,"Cleaning Liquid",Stationary,"Global Distributors","Delhi WH",NULL,176,74.06,89.9,two,South
+ORD003605,19/01/2024,P231,"Printer Paper",Maintenance,"ABC Supplies","Pune WH",NULL,155,157.41,55.39,5,North
+ORD003606,,P159,Notebook,Maintenance,"LMN Corp","Pune WH",-50,41,108.62,202.36,5,North
+ORD003607,26/09/2024,P226,"Cleaning Liquid",Maintenance,"XYZ Traders","Delhi WH",-50,61,31.78,135.69,9,East
+ORD003608,01/05/2024,P223,"Printer Paper",Utilities,"Global Distributors","Chennai WH",103,143,?,284.81,2,West
+ORD003609,,P215,"Printer Paper",Maintenance,"ABC Supplies","Delhi WH",22,0,62.96,292.66,1,North
+ORD003610,,P269,Marker,Utilities,"XYZ Traders","Pune WH",?,110,112.43,275.46,4,East
+ORD003791,2024/06/28,P225,Marker,Utilities,"ABC Supplies","Delhi WH",?,68,168.81,54.84,,East
+ORD003792,,P121,"Cleaning Liquid",Utilities,"XYZ Traders","Pune WH",NULL,98,80.03,119.15,10,North
+ORD003793,,P118,Pen,Maintenance,"LMN Corp","Pune WH",?,153,205.69,259.87,5,East
+ORD003794,2024/01/31,P169,Pen,Utilities,"LMN Corp","Pune WH",167,42,177.27,349.13,two,North
+ORD003795,,P202,"Water Bottle",Stationary,"ABC Supplies","Chennai WH",758,0,90.79,78.08,,West
+ORD003796,2024/06/03,P196,"Printer Paper",Stationary,"Global Distributors","Mumbai WH",NULL,18,?,141.04,8,North
+ORD003797,,P265,Notebook,Maintenance,"Global Distributors","Pune WH",299,173,160.31,190.55,,East
+ORD003798,,P131,Pen,Utilities,"Global Distributors","Pune WH",835,23,97.51,130.85,,North
+ORD003799,01/04/2024,P127,"Cleaning Liquid",Stationary,"XYZ Traders","Pune WH",-50,101,74.42,210.18,6,East
+ORD003800,2024/04/24,P212,"Cleaning Liquid",Utilities,"LMN Corp","Chennai WH",122,69,103.36,274.45,,South
+ORD003781,,P190,Notebook,Maintenance,"LMN Corp","Pune WH",8,0,21.99,71.85,6,North
+ORD003782,21/09/2024,P119,Notebook,Stationary,"XYZ Traders","Chennai WH",957,197,114.96,68.75,4,North
+ORD003783,2024-13-01,P222,"Printer Paper",Stationary,"LMN Corp","Chennai WH",?,170,187.59,106.9,two,South
+ORD003784,2024-06-07,P176,Marker,Maintenance,"LMN Corp","Chennai WH",737,NULL,162.18,85.38,2,North
+ORD003785,2024/09/30,P157,Notebook,Stationary,"Global Distributors","Mumbai WH",404,54,125.85,216.54,1,North
+ORD003786,,P117,"Water Bottle",Maintenance,"Global Distributors","Pune WH",NULL,90,69.11,210.58,1,East
+ORD003787,25/01/2024,P284,Pen,Stationary,"Global Distributors","Mumbai WH",793,83,199.68,133.56,1,East
+ORD003788,,P187,Notebook,Utilities,"ABC Supplies","Mumbai WH",658,12,24.57,290.74,6,West
+ORD003789,2024-13-01,P257,"Water Bottle",Stationary,"XYZ Traders","Chennai WH",450,50,68.24,NULL,4,West
+ORD003790,06/02/2024,P186,"Cleaning Liquid",Maintenance,"XYZ Traders","Chennai WH",551,0,125.76,272.18,9,South
+ORD003771,2024-13-01,P227,Marker,Utilities,"Global Distributors","Mumbai WH",783,0,112.45,189.64,4,North
+ORD003772,06/09/2024,P131,"Water Bottle",Stationary,"Global Distributors","Chennai WH",-50,114,137.11,332.67,two,West
+ORD003773,,P119,"Cleaning Liquid",Maintenance,"ABC Supplies","Mumbai WH",95,105,31.46,134.37,2,South
+ORD003774,2024-13-01,P171,"Printer Paper",Stationary,"Global Distributors","Mumbai WH",NULL,197,66.63,201.23,,North
+ORD003775,10/11/2024,P146,Marker,Stationary,"ABC Supplies","Pune WH",85,188,71.01,139.05,3,North
+ORD003776,13/02/2024,P208,Pen,Stationary,"XYZ Traders","Mumbai WH",?,192,136.09,147.41,6,North
+ORD003777,,P209,"Printer Paper",Maintenance,"ABC Supplies","Delhi WH",154,0,109.91,NULL,9,South
+ORD003778,,P236,"Water Bottle",Stationary,"Global Distributors","Mumbai WH",926,80,109.01,282.78,1,North
+ORD003779,17/06/2024,P255,Pen,Stationary,"ABC Supplies","Delhi WH",NULL,120,47.69,100.2,1,South
+ORD003780,2024-13-01,P223,"Cleaning Liquid",Maintenance,"XYZ Traders","Delhi WH",?,180,101.64,231.55,10,South
+ORD003761,2024/11/02,P197,"Cleaning Liquid",Stationary,"ABC Supplies","Pune WH",596,194,89.41,291.02,8,East
+ORD003762,08/11/2024,P289,Notebook,Stationary,"LMN Corp","Delhi WH",833,94,103.16,226.13,6,West
+ORD003763,,P122,"Printer Paper",Maintenance,"LMN Corp","Delhi WH",-50,28,108.47,71.13,1,South
+ORD003764,2024/08/15,P200,Marker,Maintenance,"LMN Corp","Pune WH",620,102,129.49,269.78,5,South
+ORD003765,22/07/2024,P175,Notebook,Maintenance,"ABC Supplies","Chennai WH",NULL,129,59.8,322.45,,West
+ORD003766,14/10/2024,P230,"Cleaning Liquid",Utilities,"ABC Supplies","Chennai WH",NULL,85,97.83,195.52,1,South
+ORD003767,2024-13-01,P160,"Water Bottle",Utilities,"ABC Supplies","Chennai WH",330,33,168.59,220.18,3,West
+ORD003768,,P105,"Water Bottle",Utilities,"XYZ Traders","Pune WH",671,15,139.16,221.04,,North
+ORD003769,2024-13-01,P248,Pen,Maintenance,"LMN Corp","Chennai WH",702,48,152.63,164.59,3,South
+ORD003770,2024/07/01,P171,Notebook,Utilities,"ABC Supplies","Delhi WH",?,169,160.64,249.28,4,West
+ORD003751,,P138,Notebook,Maintenance,"LMN Corp","Pune WH",725,165,77.16,323.92,10,East
+ORD003752,,P126,"Printer Paper",Utilities,"XYZ Traders","Delhi WH",769,62,17.13,303.4,two,South
+ORD003753,2024/09/04,P244,Marker,Maintenance,"LMN Corp","Delhi WH",-50,142,62.55,220.26,3,East
+ORD003754,2024/11/03,P156,"Cleaning Liquid",Utilities,"ABC Supplies","Delhi WH",-50,20,99.35,224.96,,West
+ORD003755,,P211,Marker,Stationary,"XYZ Traders","Delhi WH",?,20,122.66,277.93,9,West
+ORD003756,14/12/2024,P218,"Printer Paper",Maintenance,"ABC Supplies","Pune WH",779,197,174.61,279.15,,South
+ORD003757,01/08/2024,P207,"Cleaning Liquid",Stationary,"XYZ Traders","Chennai WH",-50,125,111.85,64.64,3,West
+ORD003758,2024-13-01,P248,"Water Bottle",Utilities,"Global Distributors","Delhi WH",NULL,25,21.5,327.21,,East
+ORD003759,2024/09/06,P150,Notebook,Stationary,"LMN Corp","Delhi WH",151,42,178.06,72.62,7,East
+ORD003760,19/05/2024,P169,Marker,Maintenance,"LMN Corp","Chennai WH",506,172,178.16,112.79,two,North
+ORD003741,23/11/2024,P182,Pen,Utilities,"ABC Supplies","Chennai WH",694,66,91.08,258.8,3,South
+ORD003742,,P244,"Printer Paper",Stationary,"XYZ Traders","Pune WH",902,0,207.31,258.38,2,East
+ORD003743,2024/04/05,P128,"Cleaning Liquid",Stationary,"XYZ Traders","Pune WH",320,79,185.07,66.5,,West
+ORD003744,,P147,"Water Bottle",Stationary,"LMN Corp","Chennai WH",589,119,148.79,296.15,5,West
+ORD003745,,P208,"Cleaning Liquid",Stationary,"ABC Supplies","Delhi WH",242,69,154.28,220.87,3,West
+ORD003746,2024/11/02,P140,Pen,Maintenance,"Global Distributors","Chennai WH",165,143,185.54,114.63,,North
+ORD003747,2024/04/22,P225,Notebook,Stationary,"ABC Supplies","Mumbai WH",208,138,37.73,164.19,two,East
+ORD003748,2024/11/13,P199,"Cleaning Liquid",Maintenance,"Global Distributors","Pune WH",711,0,122.55,120.47,8,North
+ORD003749,18/01/2024,P299,"Water Bottle",Stationary,"XYZ Traders","Mumbai WH",-50,2,110.78,193.81,7,South
+ORD003750,,P269,Marker,Utilities,"LMN Corp","Delhi WH",602,128,91.51,NULL,9,East
+ORD003731,,P262,"Cleaning Liquid",Stationary,"XYZ Traders","Pune WH",696,156,48.78,247.39,8,North
+ORD003732,2024-13-01,P239,Marker,Utilities,"LMN Corp","Chennai WH",546,98,178.03,210.57,6,South
+ORD003733,25/06/2024,P101,Marker,Maintenance,"Global Distributors","Mumbai WH",345,0,150.57,340.91,,North
+ORD003734,04/11/2024,P260,Pen,Stationary,"LMN Corp","Pune WH",510,NULL,109.74,173.91,5,West
+ORD003735,2024-13-01,P282,"Water Bottle",Stationary,"LMN Corp","Delhi WH",131,131,11.61,114.27,1,West
+ORD003736,25/09/2024,P132,Marker,Utilities,"ABC Supplies","Chennai WH",753,185,208.88,212.43,8,South
+ORD003737,2024/03/25,P221,Pen,Maintenance,"LMN Corp","Delhi WH",314,157,96.18,74.59,3,West
+ORD003738,21/02/2024,P161,"Printer Paper",Maintenance,"ABC Supplies","Delhi WH",209,170,152.73,313.65,7,North
+ORD003739,,P270,"Cleaning Liquid",Utilities,"LMN Corp","Chennai WH",-50,67,209.5,322.29,8,East
+ORD003740,,P166,Marker,Utilities,"ABC Supplies","Chennai WH",544,NULL,57.19,145.83,2,West
+ORD003721,2024/11/12,P170,Notebook,Maintenance,"XYZ Traders","Chennai WH",48,109,209.09,342.75,7,North
+ORD003722,2024/06/15,P134,Pen,Maintenance,"ABC Supplies","Mumbai WH",701,198,55.56,163.48,two,West
+ORD003723,2024/05/24,P181,"Cleaning Liquid",Stationary,"LMN Corp","Pune WH",44,121,129.16,301.89,1,South
+ORD003724,04/05/2024,P201,Marker,Maintenance,"XYZ Traders","Delhi WH",292,33,74.28,222.99,,West
+ORD003725,18/12/2024,P254,"Cleaning Liquid",Utilities,"Global Distributors","Delhi WH",320,86,184.46,250.78,9,North
+ORD003726,2024/03/07,P127,"Printer Paper",Stationary,"Global Distributors","Mumbai WH",442,184,172.52,95.63,1,South
+ORD003727,2024-13-01,P108,Marker,Stationary,"ABC Supplies","Delhi WH",852,57,105.46,194.21,9,South
+ORD003728,2024-13-01,P218,"Printer Paper",Utilities,"Global Distributors","Chennai WH",20,172,164,310.42,two,South
+ORD003729,,P293,"Cleaning Liquid",Utilities,"ABC Supplies","Pune WH",NULL,14,203.68,276.09,9,South
+ORD003730,,P224,"Water Bottle",Stationary,"Global Distributors","Mumbai WH",826,90,77.33,147.62,two,West
+ORD003711,2024-13-01,P298,"Water Bottle",Maintenance,"ABC Supplies","Pune WH",633,0,97.25,274.95,7,North
+ORD003712,2024-13-01,P101,"Cleaning Liquid",Maintenance,"Global Distributors","Delhi WH",469,131,178.9,94.38,5,South
+ORD003713,,P185,Marker,Maintenance,"ABC Supplies","Chennai WH",?,34,177.43,161.8,8,West
+ORD003714,,P205,"Water Bottle",Utilities,"LMN Corp","Delhi WH",699,103,98.41,275.43,10,East
+ORD003715,,P239,"Printer Paper",Utilities,"LMN Corp","Chennai WH",790,45,100.81,219.28,6,East
+ORD003716,19/11/2024,P286,"Printer Paper",Stationary,"ABC Supplies","Delhi WH",523,26,123.65,230.99,9,West
+ORD003717,,P280,"Cleaning Liquid",Stationary,"XYZ Traders","Mumbai WH",803,131,106.88,140.8,2,South
+ORD003718,13/01/2024,P112,Notebook,Maintenance,"Global Distributors","Delhi WH",?,139,160.84,61.9,6,East
+ORD003719,2024/08/17,P162,"Water Bottle",Utilities,"ABC Supplies","Delhi WH",998,65,54.84,138.83,2,East
+ORD003720,19/06/2024,P150,"Cleaning Liquid",Utilities,"ABC Supplies","Chennai WH",697,99,64.85,271.88,1,North
+ORD003701,21/02/2024,P184,"Water Bottle",Stationary,"Global Distributors","Pune WH",?,59,110.19,299.94,6,South
+ORD003702,2024-13-01,P288,"Water Bottle",Maintenance,"ABC Supplies","Delhi WH",160,146,178.35,166.07,6,West
+ORD003703,,P202,"Cleaning Liquid",Stationary,"ABC Supplies","Mumbai WH",840,176,196.5,282.72,4,South
+ORD003704,24/04/2024,P199,Marker,Stationary,"LMN Corp","Chennai WH",676,13,144.26,NULL,10,East
+ORD003705,28/02/2024,P189,"Water Bottle",Utilities,"ABC Supplies","Mumbai WH",355,131,184.2,244.84,5,South
+ORD003706,30/03/2024,P115,Marker,Maintenance,"Global Distributors","Chennai WH",573,49,121.46,162.15,,South
+ORD003707,2024/08/26,P171,"Water Bottle",Stationary,"Global Distributors","Pune WH",726,158,207.59,236.78,7,West
+ORD003708,2024-13-01,P171,Pen,Utilities,"ABC Supplies","Mumbai WH",277,185,194.74,107.75,10,East
+ORD003709,09/05/2024,P159,Pen,Stationary,"LMN Corp","Pune WH",95,199,160.75,149.62,6,East
+ORD003710,2024/02/25,P205,Notebook,Utilities,"ABC Supplies","Pune WH",615,NULL,164.64,133.16,9,North
+ORD003891,2024/11/20,P115,"Water Bottle",Utilities,"Global Distributors","Pune WH",594,55,167.74,195.68,,East
+ORD003892,28/08/2024,P119,Marker,Stationary,"Global Distributors","Delhi WH",430,NULL,171.03,107.49,6,East
+ORD003893,05/03/2024,P217,Pen,Stationary,"Global Distributors","Pune WH",650,139,84.89,302.98,4,East
+ORD003894,,P174,Marker,Utilities,"Global Distributors","Delhi WH",482,37,84.61,165.99,1,North
+ORD003895,2024-13-01,P193,Marker,Stationary,"LMN Corp","Delhi WH",221,43,?,195.26,9,South
+ORD003896,,P118,"Printer Paper",Maintenance,"LMN Corp","Chennai WH",834,56,27,71.7,6,East
+ORD003897,2024/07/25,P207,"Cleaning Liquid",Stationary,"XYZ Traders","Chennai WH",169,24,156.31,283.5,9,East
+ORD003898,2024-13-01,P139,"Water Bottle",Utilities,"Global Distributors","Mumbai WH",883,142,77.62,NULL,two,West
+ORD003899,2024/12/05,P185,Pen,Utilities,"Global Distributors","Chennai WH",443,119,42.8,277.56,2,East
+ORD003900,,P211,"Printer Paper",Maintenance,"ABC Supplies","Delhi WH",497,144,22.75,262.12,2,East
+ORD003881,,P246,Notebook,Stationary,"Global Distributors","Mumbai WH",974,99,198.65,184.73,,South
+ORD003882,2024/06/02,P229,"Cleaning Liquid",Maintenance,"Global Distributors","Chennai WH",305,155,75.02,107.56,3,East
+ORD003883,20/06/2024,P134,Pen,Maintenance,"ABC Supplies","Chennai WH",345,45,?,266.22,6,East
+ORD003884,,P128,"Printer Paper",Stationary,"ABC Supplies","Mumbai WH",317,67,20.26,325.04,6,East
+ORD003885,03/05/2024,P216,"Cleaning Liquid",Maintenance,"ABC Supplies","Chennai WH",714,115,190.94,346.48,9,West
+ORD003886,2024/07/02,P213,Pen,Maintenance,"Global Distributors","Mumbai WH",NULL,NULL,92.79,239.33,7,North
+ORD003887,2024/01/21,P151,"Printer Paper",Maintenance,"ABC Supplies","Delhi WH",254,171,138.06,179.9,7,East
+ORD003888,2024/11/29,P198,"Water Bottle",Stationary,"XYZ Traders","Pune WH",NULL,189,40.34,162.35,5,East
+ORD003889,17/01/2024,P262,"Cleaning Liquid",Stationary,"ABC Supplies","Chennai WH",978,158,143.12,206.86,1,West
+ORD003890,02/01/2024,P218,"Cleaning Liquid",Maintenance,"Global Distributors","Mumbai WH",263,123,90.31,72.24,2,North
+ORD003871,2024/07/22,P182,Pen,Maintenance,"LMN Corp","Pune WH",600,167,29.06,127.74,,South
+ORD003872,2024-07-02,P202,"Printer Paper",Maintenance,"Global Distributors","Chennai WH",439,0,86.99,95.64,4,South
+ORD003873,,P102,"Water Bottle",Utilities,"ABC Supplies","Pune WH",NULL,74,79.96,142.13,7,North
+ORD003874,2024/09/12,P289,Marker,Utilities,"Global Distributors","Mumbai WH",447,56,44.44,264.95,,North
+ORD003875,2024-13-01,P247,"Water Bottle",Stationary,"LMN Corp","Mumbai WH",50,0,32.11,NULL,,East
+ORD003876,,P243,Notebook,Stationary,"LMN Corp","Pune WH",?,57,120.24,316.75,10,South
+ORD003877,,P108,"Water Bottle",Maintenance,"XYZ Traders","Chennai WH",NULL,10,77.64,341.13,10,East
+ORD003878,2024-13-01,P258,Marker,Utilities,"ABC Supplies","Mumbai WH",900,18,70.86,338.17,10,West
+ORD003879,2024/01/28,P172,Marker,Maintenance,"ABC Supplies","Chennai WH",?,32,150.04,305.71,10,North
+ORD003880,2024-13-01,P239,Notebook,Utilities,"Global Distributors","Delhi WH",NULL,42,37.69,265.54,3,West
+ORD003861,,P124,Pen,Utilities,"LMN Corp","Pune WH",NULL,176,185.52,265.66,5,East
+ORD003862,,P162,Pen,Maintenance,"LMN Corp","Delhi WH",59,27,?,224.41,8,North
+ORD003863,2024/03/06,P275,"Cleaning Liquid",Utilities,"LMN Corp","Pune WH",144,163,32.69,285.13,two,East
+ORD003864,2024-13-01,P125,"Printer Paper",Stationary,"ABC Supplies","Chennai WH",601,18,150.96,211.97,5,South
+ORD003865,,P215,Marker,Stationary,"LMN Corp","Chennai WH",NULL,95,116.96,312.32,2,North
+ORD003866,2024/01/16,P255,"Water Bottle",Utilities,"ABC Supplies","Mumbai WH",-50,47,126.66,329.51,10,West
+ORD003867,2024/02/16,P210,Pen,Stationary,"XYZ Traders","Delhi WH",125,181,25.91,156.63,,East
+ORD003868,,P190,Notebook,Utilities,"XYZ Traders","Chennai WH",880,156,85.1,76.95,9,North
+ORD003869,2024-13-01,P229,"Cleaning Liquid",Maintenance,"Global Distributors","Pune WH",171,178,124.6,301.39,5,East
+ORD003870,,P237,"Printer Paper",Maintenance,"ABC Supplies","Pune WH",675,23,67.22,NULL,9,East
+ORD003851,2024/11/14,P171,Notebook,Maintenance,"XYZ Traders","Delhi WH",870,185,136.46,256.06,2,South
+ORD003852,2024/06/04,P216,Marker,Utilities,"XYZ Traders","Delhi WH",NULL,148,68.91,321.01,3,South
+ORD003853,2024-13-01,P171,Pen,Maintenance,"ABC Supplies","Chennai WH",928,51,186.4,179.65,5,North
+ORD003854,2024/05/05,P124,Marker,Utilities,"ABC Supplies","Pune WH",NULL,3,200.9,346.86,8,West
+ORD003855,2024-13-01,P169,Pen,Maintenance,"LMN Corp","Pune WH",974,89,166.42,294.69,8,North
+ORD003856,2024-13-01,P148,Marker,Maintenance,"LMN Corp","Mumbai WH",?,0,?,236.27,3,South
+ORD003857,2024/09/23,P111,"Printer Paper",Stationary,"ABC Supplies","Mumbai WH",57,75,?,300.68,6,East
+ORD003858,22/11/2024,P289,"Printer Paper",Utilities,"ABC Supplies","Mumbai WH",939,172,?,228.22,,West
+ORD003859,24/05/2024,P278,Notebook,Maintenance,"LMN Corp","Mumbai WH",351,0,72.07,310.93,two,South
+ORD003860,2024/01/28,P121,Notebook,Stationary,"ABC Supplies","Delhi WH",391,106,83.59,108.84,7,West
+ORD003841,2024/04/30,P192,Pen,Stationary,"XYZ Traders","Delhi WH",-50,97,17.18,137.48,3,South
+ORD003842,2024-03-20,P171,"Printer Paper",Utilities,"LMN Corp","Chennai WH",147,159,61.15,258.24,3,South
+ORD003843,2024-13-01,P148,Pen,Stationary,"LMN Corp","Delhi WH",718,NULL,?,284.84,two,East
+ORD003844,2024/06/06,P142,"Water Bottle",Stationary,"LMN Corp","Pune WH",457,69,62.75,319.23,10,East
+ORD003845,25/01/2024,P111,"Printer Paper",Stationary,"ABC Supplies","Chennai WH",NULL,196,209.12,78.55,4,North
+ORD003846,06/03/2024,P167,"Printer Paper",Maintenance,"ABC Supplies","Pune WH",NULL,46,15.2,175.99,4,North
+ORD003847,2024-09-23,P284,Pen,Utilities,"LMN Corp","Chennai WH",538,191,199.97,185.31,,West
+ORD003848,,P192,"Cleaning Liquid",Maintenance,"ABC Supplies","Delhi WH",817,123,113.89,148.62,6,East
+ORD003849,2024-13-01,P119,Pen,Maintenance,"Global Distributors","Delhi WH",175,173,84.31,132.02,5,South
+ORD003850,09/09/2024,P295,"Water Bottle",Stationary,"XYZ Traders","Mumbai WH",371,192,106.03,188.14,1,East
+ORD003831,,P210,"Water Bottle",Stationary,"XYZ Traders","Pune WH",827,63,71.28,341.72,9,East
+ORD003832,02/06/2024,P111,"Printer Paper",Maintenance,"XYZ Traders","Delhi WH",287,2,94.83,333.66,,South
+ORD003833,2024/05/22,P134,"Water Bottle",Maintenance,"Global Distributors","Delhi WH",?,0,64.36,265.32,,West
+ORD003834,10/05/2024,P161,Pen,Utilities,"XYZ Traders","Delhi WH",NULL,80,197.15,103.15,1,North
+ORD003835,2024/05/09,P291,"Water Bottle",Maintenance,"LMN Corp","Pune WH",?,105,30.04,96.69,,South
+ORD003836,2024-13-01,P277,"Water Bottle",Maintenance,"XYZ Traders","Chennai WH",102,118,206.62,152.86,2,South
+ORD003837,2024-13-01,P203,Pen,Maintenance,"ABC Supplies","Delhi WH",881,135,78.95,189.18,3,North
+ORD003838,2024/12/21,P281,Marker,Stationary,"Global Distributors","Mumbai WH",613,161,118.22,50.73,,East
+ORD003839,2024-13-01,P211,"Water Bottle",Stationary,"XYZ Traders","Pune WH",54,87,155.53,320.17,1,South
+ORD003840,,P261,Marker,Maintenance,"Global Distributors","Mumbai WH",421,9,75.29,277.8,10,North
+ORD003821,2024/10/13,P263,"Water Bottle",Stationary,"ABC Supplies","Chennai WH",511,74,63.08,254,4,East
+ORD003822,2024-03-26,P170,"Printer Paper",Stationary,"Global Distributors","Pune WH",977,0,69.02,76.17,,West
+ORD003823,2024/08/07,P261,Notebook,Maintenance,"Global Distributors","Chennai WH",NULL,0,105.39,66.71,9,West
+ORD003824,2024/03/21,P105,Pen,Stationary,"Global Distributors","Pune WH",422,145,116.56,220.73,,West
+ORD003825,,P182,"Cleaning Liquid",Utilities,"Global Distributors","Chennai WH",NULL,0,154.85,219.75,5,North
+ORD003826,2024/04/12,P117,Marker,Maintenance,"Global Distributors","Delhi WH",594,32,165.31,132.19,two,West
+ORD003827,24/08/2024,P113,Pen,Maintenance,"XYZ Traders","Pune WH",434,25,198.82,291.87,two,East
+ORD003828,2024/11/11,P154,"Water Bottle",Maintenance,"LMN Corp","Delhi WH",43,19,132.15,271.88,4,East
+ORD003829,2024/12/18,P184,Notebook,Maintenance,"XYZ Traders","Chennai WH",10,51,52.29,262,5,South
+ORD003830,2024/01/22,P124,Pen,Maintenance,"Global Distributors","Pune WH",982,20,82.75,348.13,7,South
+ORD003811,,P116,Pen,Maintenance,"Global Distributors","Pune WH",945,129,172.5,234.99,7,West
+ORD003812,,P281,Notebook,Utilities,"Global Distributors","Delhi WH",788,NULL,177.84,252.47,8,West
+ORD003813,2024-09-09,P251,"Water Bottle",Stationary,"XYZ Traders","Chennai WH",156,75,49.26,148.85,4,North
+ORD003814,,P195,Marker,Maintenance,"LMN Corp","Pune WH",NULL,194,94.75,143.67,,East
+ORD003815,2024/06/13,P135,Marker,Stationary,"Global Distributors","Chennai WH",?,83,?,252.61,9,South
+ORD003816,2024/04/24,P122,Marker,Maintenance,"Global Distributors","Chennai WH",743,0,178.89,144.71,4,South
+ORD003817,2024/12/04,P257,"Printer Paper",Utilities,"LMN Corp","Mumbai WH",519,128,?,131.26,4,North
+ORD003818,04/05/2024,P161,Marker,Maintenance,"Global Distributors","Mumbai WH",405,NULL,180.39,291.17,5,North
+ORD003819,12/02/2024,P296,Marker,Maintenance,"LMN Corp","Delhi WH",NULL,52,157.88,252.09,,West
+ORD003820,2024/07/30,P285,"Cleaning Liquid",Maintenance,"Global Distributors","Chennai WH",245,NULL,71.67,185.63,two,East
+ORD003801,,P188,"Water Bottle",Maintenance,"ABC Supplies","Mumbai WH",585,180,126.73,335.47,8,West
+ORD003802,2024/09/23,P267,"Printer Paper",Utilities,"LMN Corp","Delhi WH",83,82,22.39,183.14,1,South
+ORD003803,2024/02/21,P232,"Cleaning Liquid",Utilities,"XYZ Traders","Mumbai WH",?,51,194.32,101.97,1,North
+ORD003804,2024/12/20,P156,Pen,Utilities,"XYZ Traders","Chennai WH",383,171,199.07,123.97,,West
+ORD003805,12/04/2024,P298,"Printer Paper",Utilities,"LMN Corp","Delhi WH",180,129,31.44,113.55,,North
+ORD003806,2024/12/18,P265,Notebook,Maintenance,"Global Distributors","Pune WH",405,180,76.54,109.63,1,West
+ORD003807,08/04/2024,P112,Marker,Utilities,"XYZ Traders","Delhi WH",NULL,73,142.61,136.75,10,North
+ORD003808,08/02/2024,P163,Notebook,Utilities,"XYZ Traders","Mumbai WH",360,158,76.54,107.86,two,South
+ORD003809,,P279,Pen,Stationary,"LMN Corp","Delhi WH",NULL,9,?,200.2,9,South
+ORD003810,09/10/2024,P161,Notebook,Stationary,"ABC Supplies","Mumbai WH",21,182,201,324.67,3,East
+ORD003991,25/04/2024,P188,Notebook,Maintenance,"Global Distributors","Pune WH",695,194,165.16,51.64,,North
+ORD003992,2024/11/25,P199,"Water Bottle",Utilities,"LMN Corp","Delhi WH",532,147,117.21,213.55,2,West
+ORD003993,2024-09-20,P282,Pen,Stationary,"ABC Supplies","Delhi WH",706,49,185.98,194.21,3,South
+ORD003994,2024/09/27,P264,"Cleaning Liquid",Stationary,"XYZ Traders","Chennai WH",828,176,203.29,174.61,,West
+ORD003995,,P105,Pen,Maintenance,"XYZ Traders","Mumbai WH",372,177,14.1,172.28,8,East
+ORD003996,,P196,Notebook,Maintenance,"ABC Supplies","Mumbai WH",859,0,?,161.05,5,North
+ORD003997,16/01/2024,P231,"Printer Paper",Maintenance,"LMN Corp","Chennai WH",841,158,130.84,148.97,7,East
+ORD003998,27/11/2024,P167,"Cleaning Liquid",Maintenance,"Global Distributors","Chennai WH",242,1,33.08,92.91,two,South
+ORD003999,,P212,Marker,Stationary,"Global Distributors","Delhi WH",259,0,?,227.15,5,West
+ORD004000,,P105,"Water Bottle",Maintenance,"LMN Corp","Delhi WH",990,NULL,73.67,342.53,2,East
+ORD003981,2024/10/17,P266,"Water Bottle",Utilities,"LMN Corp","Delhi WH",-50,14,157.4,149.23,9,North
+ORD003982,,P193,Notebook,Stationary,"ABC Supplies","Pune WH",440,115,171.4,83.95,two,East
+ORD003983,,P264,Notebook,Stationary,"LMN Corp","Chennai WH",571,112,151.11,149.14,9,South
+ORD003984,,P115,Pen,Stationary,"ABC Supplies","Mumbai WH",283,99,75.99,293.93,9,East
+ORD003985,,P287,Pen,Stationary,"LMN Corp","Delhi WH",NULL,157,177,277.35,10,East
+ORD003986,13/06/2024,P107,"Cleaning Liquid",Stationary,"Global Distributors","Pune WH",527,52,54.88,322.03,9,East
+ORD003987,,P107,Notebook,Stationary,"LMN Corp","Chennai WH",116,76,105.76,241.3,1,South
+ORD003988,2024-13-01,P234,"Water Bottle",Stationary,"Global Distributors","Pune WH",-50,62,111.06,288.16,4,West
+ORD003989,,P153,Notebook,Maintenance,"LMN Corp","Delhi WH",343,152,85.11,133.49,5,South
+ORD003990,2024-13-01,P115,"Water Bottle",Maintenance,"Global Distributors","Mumbai WH",?,77,162.62,53.98,1,West
+ORD003971,2024/12/22,P261,"Printer Paper",Stationary,"XYZ Traders","Pune WH",95,114,71.43,258.76,10,North
+ORD003972,,P261,Marker,Utilities,"Global Distributors","Chennai WH",614,111,95.87,95.93,,East
+ORD003973,2024-13-01,P218,Pen,Stationary,"LMN Corp","Mumbai WH",52,144,200.65,229.38,4,North
+ORD003974,2024-13-01,P295,"Printer Paper",Maintenance,"ABC Supplies","Chennai WH",268,17,115.99,134.1,two,South
+ORD003975,2024/08/14,P291,"Cleaning Liquid",Maintenance,"Global Distributors","Pune WH",184,167,91.62,112.84,2,East
+ORD003976,2024/01/30,P163,Pen,Maintenance,"Global Distributors","Chennai WH",135,196,123.15,322.16,,North
+ORD003977,,P103,"Cleaning Liquid",Utilities,"XYZ Traders","Delhi WH",516,14,?,NULL,8,North
+ORD003978,13/12/2024,P156,Marker,Maintenance,"Global Distributors","Delhi WH",299,174,?,278.07,two,West
+ORD003979,,P133,"Cleaning Liquid",Maintenance,"Global Distributors","Chennai WH",?,182,76.74,94.42,two,East
+ORD003980,2024/08/01,P251,"Printer Paper",Maintenance,"XYZ Traders","Mumbai WH",466,199,171.71,160.24,3,West
+ORD003961,2024/07/16,P236,"Water Bottle",Maintenance,"XYZ Traders","Chennai WH",506,0,52.86,64.27,1,West
+ORD003962,2024/04/11,P288,"Cleaning Liquid",Utilities,"XYZ Traders","Chennai WH",NULL,0,177.88,319.85,10,West
+ORD003963,,P166,Marker,Maintenance,"Global Distributors","Chennai WH",?,175,188.99,84.23,two,West
+ORD003964,2024/09/26,P163,Pen,Maintenance,"LMN Corp","Chennai WH",872,122,93.24,165.64,9,South
+ORD003965,14/07/2024,P227,Marker,Maintenance,"Global Distributors","Mumbai WH",824,52,182.04,345.64,6,East
+ORD003966,2024/09/14,P135,"Water Bottle",Stationary,"ABC Supplies","Delhi WH",?,107,54.78,174.18,6,North
+ORD003967,2024/09/27,P235,Notebook,Maintenance,"LMN Corp","Pune WH",56,111,60.11,272,9,South
+ORD003968,,P168,"Printer Paper",Utilities,"Global Distributors","Delhi WH",?,0,178.3,273.95,8,East
+ORD003969,10/02/2024,P122,Notebook,Maintenance,"XYZ Traders","Mumbai WH",NULL,148,49.34,72.33,4,South
+ORD003970,2024/03/25,P124,"Cleaning Liquid",Stationary,"XYZ Traders","Chennai WH",548,162,161.86,88.13,8,East
+ORD003951,2024-13-01,P249,"Water Bottle",Maintenance,"ABC Supplies","Pune WH",26,0,203.64,297.22,9,South
+ORD003952,2024/04/20,P264,Notebook,Utilities,"Global Distributors","Mumbai WH",789,0,64.85,59.51,,North
+ORD003953,2024/09/24,P252,Marker,Maintenance,"Global Distributors","Pune WH",967,140,150.59,NULL,two,West
+ORD003954,,P144,Pen,Stationary,"ABC Supplies","Delhi WH",234,157,50.06,265.28,4,North
+ORD003955,2024/04/14,P173,"Cleaning Liquid",Maintenance,"Global Distributors","Mumbai WH",249,172,62.5,119.48,,South
+ORD003956,2024-13-01,P255,Notebook,Maintenance,"Global Distributors","Pune WH",?,0,84.95,NULL,5,South
+ORD003957,2024/01/04,P121,Marker,Stationary,"LMN Corp","Mumbai WH",-50,171,122.91,57.8,6,South
+ORD003958,2024/11/28,P208,"Cleaning Liquid",Stationary,"XYZ Traders","Mumbai WH",213,123,?,278.83,4,West
+ORD003959,2024-13-01,P193,"Cleaning Liquid",Stationary,"XYZ Traders","Pune WH",?,123,87.98,NULL,,North
+ORD003960,05/06/2024,P286,Pen,Stationary,"Global Distributors","Pune WH",NULL,188,206.7,114.48,7,North
+ORD003941,,P299,"Cleaning Liquid",Stationary,"Global Distributors","Mumbai WH",?,48,95.42,330.46,2,West
+ORD003942,,P278,Marker,Utilities,"Global Distributors","Chennai WH",614,190,56.69,305.86,,West
+ORD003943,2024/08/08,P247,"Cleaning Liquid",Stationary,"ABC Supplies","Pune WH",517,0,59.09,120.88,3,West
+ORD003944,2024/01/13,P200,Pen,Utilities,"XYZ Traders","Delhi WH",988,177,84.34,74.54,10,West
+ORD003945,2024-11-19,P194,"Water Bottle",Stationary,"XYZ Traders","Mumbai WH",573,24,87.27,122.67,,South
+ORD003946,2024-13-01,P133,"Printer Paper",Utilities,"Global Distributors","Delhi WH",970,0,154.37,57.16,6,East
+ORD003947,31/08/2024,P101,"Printer Paper",Stationary,"XYZ Traders","Pune WH",28,178,158.18,62.49,,East
+ORD003948,2024/01/23,P250,Marker,Utilities,"XYZ Traders","Mumbai WH",627,163,192.84,56.74,two,West
+ORD003949,,P165,Pen,Maintenance,"LMN Corp","Pune WH",492,136,176.84,257.37,8,South
+ORD003950,2024/06/19,P158,"Printer Paper",Utilities,"Global Distributors","Delhi WH",857,116,14.59,107.96,5,West
+ORD003931,2024/03/13,P260,Pen,Maintenance,"XYZ Traders","Delhi WH",NULL,79,65.99,272.47,6,West
+ORD003932,31/10/2024,P298,Pen,Stationary,"XYZ Traders","Delhi WH",NULL,57,26.7,56.32,5,West
+ORD003933,,P150,Pen,Utilities,"Global Distributors","Pune WH",668,164,196.23,134.29,10,South
+ORD003934,2024/07/21,P205,"Cleaning Liquid",Stationary,"LMN Corp","Mumbai WH",203,104,112.61,69.86,3,South
+ORD003935,2024/10/26,P232,"Cleaning Liquid",Stationary,"LMN Corp","Delhi WH",299,40,62.92,108.67,6,South
+ORD003936,2024/08/19,P240,Marker,Maintenance,"Global Distributors","Chennai WH",147,199,126.21,70.33,two,West
+ORD003937,29/06/2024,P113,"Cleaning Liquid",Stationary,"LMN Corp","Mumbai WH",589,166,79.38,81.38,5,South
+ORD003938,2024-13-01,P202,"Printer Paper",Stationary,"Global Distributors","Pune WH",271,95,148.82,319.66,9,South
+ORD003939,31/01/2024,P155,"Printer Paper",Maintenance,"ABC Supplies","Chennai WH",920,130,90.61,290.75,9,South
+ORD003940,23/02/2024,P146,"Water Bottle",Maintenance,"XYZ Traders","Mumbai WH",832,NULL,119.13,333.36,,South
+ORD003921,13/11/2024,P270,Marker,Maintenance,"LMN Corp","Chennai WH",600,170,15.2,290.24,5,North
+ORD003922,,P179,Pen,Stationary,"ABC Supplies","Chennai WH",873,123,140.56,298.8,6,North
+ORD003923,,P192,Pen,Utilities,"LMN Corp","Chennai WH",898,129,177.22,68.04,9,West
+ORD003924,2024/12/24,P210,"Water Bottle",Utilities,"XYZ Traders","Mumbai WH",NULL,1,?,232.21,5,North
+ORD003925,16/08/2024,P122,"Water Bottle",Stationary,"ABC Supplies","Chennai WH",833,70,159.54,61.68,,North
+ORD003926,2024/01/20,P281,Pen,Stationary,"Global Distributors","Delhi WH",429,22,119.27,167.15,6,West
+ORD003927,,P232,"Cleaning Liquid",Utilities,"XYZ Traders","Chennai WH",782,32,188.21,191.19,1,North
+ORD003928,2024-13-01,P233,Marker,Utilities,"XYZ Traders","Delhi WH",452,52,209.73,235.93,2,North
+ORD003929,2024/06/08,P238,"Printer Paper",Maintenance,"ABC Supplies","Mumbai WH",22,123,186.38,109.82,2,North
+ORD003930,,P187,Marker,Maintenance,"Global Distributors","Pune WH",?,156,99.58,190.68,7,North
+ORD003911,2024/07/22,P258,Notebook,Stationary,"XYZ Traders","Pune WH",748,64,81.35,306.47,,North
+ORD003912,,P112,Marker,Utilities,"ABC Supplies","Pune WH",875,NULL,186.7,283.86,two,East
+ORD003913,22/04/2024,P101,"Printer Paper",Utilities,"XYZ Traders","Pune WH",800,0,177.21,167.41,10,East
+ORD003914,2024/06/01,P282,Notebook,Maintenance,"ABC Supplies","Pune WH",479,0,?,315.51,4,South
+ORD003915,2024/04/18,P165,"Water Bottle",Maintenance,"LMN Corp","Pune WH",22,77,119.46,319.79,,East
+ORD003916,2024/11/11,P272,"Water Bottle",Stationary,"ABC Supplies","Mumbai WH",?,0,200.58,126.72,10,West
+ORD003917,2024-13-01,P264,Marker,Stationary,"LMN Corp","Delhi WH",277,0,19.84,110.46,4,South
+ORD003918,2024/03/14,P264,Marker,Stationary,"ABC Supplies","Pune WH",?,0,153.37,NULL,5,West
+ORD003919,,P151,"Water Bottle",Stationary,"Global Distributors","Mumbai WH",268,195,103.5,77.6,5,North
+ORD003920,,P243,Pen,Utilities,"Global Distributors","Delhi WH",?,60,85.84,201.46,,East
+ORD003901,2024-13-01,P193,"Printer Paper",Maintenance,"XYZ Traders","Chennai WH",994,179,21.84,NULL,two,West
+ORD003902,22/07/2024,P171,"Printer Paper",Utilities,"XYZ Traders","Delhi WH",NULL,177,?,58,2,South
+ORD003903,,P176,Notebook,Stationary,"Global Distributors","Delhi WH",940,24,160.68,117.62,9,South
+ORD003904,08/01/2024,P258,"Cleaning Liquid",Stationary,"LMN Corp","Mumbai WH",NULL,NULL,204.67,84.45,1,East
+ORD003905,,P227,Pen,Stationary,"Global Distributors","Chennai WH",-50,141,149.71,327.37,2,East
+ORD003906,2024/11/04,P205,"Printer Paper",Maintenance,"XYZ Traders","Pune WH",514,114,98.7,132.14,3,South
+ORD003907,19/05/2024,P281,Pen,Stationary,"ABC Supplies","Mumbai WH",82,120,64.3,272.46,4,South
+ORD003908,04/06/2024,P102,"Water Bottle",Maintenance,"Global Distributors","Mumbai WH",557,172,105.07,124.25,7,East
+ORD003909,2024-13-01,P231,"Printer Paper",Stationary,"ABC Supplies","Delhi WH",?,33,97.28,283.15,3,East
+ORD003910,2024/04/28,P202,Marker,Utilities,"XYZ Traders","Mumbai WH",?,109,77.32,185.9,2,East
+ORD002091,22/11/2024,P124,"Cleaning Liquid",Stationary,"XYZ Traders","Delhi WH",450,97,74.9,279.94,3,North
+ORD002092,,P136,Pen,Utilities,"ABC Supplies","Chennai WH",?,32,117.47,268.84,,East
+ORD002093,2024/07/29,P248,"Cleaning Liquid",Maintenance,"LMN Corp","Delhi WH",91,64,158.83,121.59,3,South
+ORD002094,,P216,Notebook,Maintenance,"Global Distributors","Mumbai WH",344,118,160.64,338,two,North
+ORD002095,17/02/2024,P167,Notebook,Utilities,"LMN Corp","Mumbai WH",170,60,134.8,83.69,1,East
+ORD002096,2024-08-22,P213,"Cleaning Liquid",Maintenance,"XYZ Traders","Pune WH",660,161,83.03,251.24,two,North
+ORD002097,05/09/2024,P173,"Water Bottle",Maintenance,"ABC Supplies","Pune WH",508,67,146.74,331.55,9,North
+ORD002098,2024/07/01,P278,"Cleaning Liquid",Stationary,"LMN Corp","Mumbai WH",633,158,168.48,321.55,,East
+ORD002099,23/12/2024,P211,"Cleaning Liquid",Utilities,"XYZ Traders","Delhi WH",NULL,2,66.86,NULL,7,North
+ORD002100,2024/06/09,P162,Notebook,Utilities,"Global Distributors","Chennai WH",52,156,147.23,347.27,3,North
+ORD002081,,P151,"Cleaning Liquid",Stationary,"LMN Corp","Mumbai WH",846,116,?,331.02,2,West
+ORD002082,2024-13-01,P196,Notebook,Utilities,"Global Distributors","Delhi WH",582,141,?,NULL,1,West
+ORD002083,,P285,"Cleaning Liquid",Utilities,"LMN Corp","Pune WH",?,103,44.48,NULL,,North
+ORD002084,22/01/2024,P105,"Cleaning Liquid",Maintenance,"Global Distributors","Chennai WH",NULL,1,181.15,107.53,2,West
+ORD002085,,P245,"Water Bottle",Utilities,"LMN Corp","Mumbai WH",339,164,146.22,208.81,2,East
+ORD002086,2024/04/27,P272,Pen,Stationary,"LMN Corp","Pune WH",249,88,58.9,247.98,10,North
+ORD002087,2024/12/08,P299,Notebook,Maintenance,"Global Distributors","Delhi WH",396,35,185.87,81.49,,East
+ORD002088,,P157,"Water Bottle",Stationary,"XYZ Traders","Delhi WH",443,172,202.78,219.71,,East
+ORD002089,,P102,"Water Bottle",Stationary,"Global Distributors","Mumbai WH",787,134,148.85,94.84,8,East
+ORD002090,,P223,Notebook,Stationary,"XYZ Traders","Chennai WH",756,NULL,147.01,50.33,2,West
+ORD002071,,P107,"Cleaning Liquid",Stationary,"Global Distributors","Mumbai WH",NULL,196,25.76,242.64,1,South
+ORD002072,2024/10/25,P117,"Cleaning Liquid",Utilities,"ABC Supplies","Delhi WH",577,89,78.87,200.74,5,East
+ORD002073,2024-13-01,P241,Pen,Utilities,"ABC Supplies","Mumbai WH",744,NULL,156.94,226.92,10,East
+ORD002074,,P265,Pen,Utilities,"ABC Supplies","Pune WH",NULL,194,187.01,62.88,7,East
+ORD002075,,P111,"Printer Paper",Stationary,"XYZ Traders","Chennai WH",-50,168,81,93.02,7,East
+ORD002076,,P180,"Cleaning Liquid",Utilities,"XYZ Traders","Mumbai WH",165,26,25.55,136.17,5,East
+ORD002077,2024-13-01,P280,"Water Bottle",Maintenance,"XYZ Traders","Chennai WH",812,104,88.32,267.55,3,North
+ORD002078,2024/08/31,P232,Notebook,Utilities,"Global Distributors","Delhi WH",NULL,42,13.83,185.82,5,West
+ORD002079,25/10/2024,P108,"Water Bottle",Utilities,"Global Distributors","Chennai WH",191,187,118.3,302.99,,West
+ORD002080,,P244,"Cleaning Liquid",Utilities,"XYZ Traders","Chennai WH",?,10,156.15,169.1,two,East
+ORD002061,2024-13-01,P201,Notebook,Utilities,"LMN Corp","Pune WH",336,66,65.32,131.75,2,South
+ORD002062,,P251,Pen,Maintenance,"XYZ Traders","Delhi WH",224,125,159.59,224.99,two,North
+ORD002063,,P272,Notebook,Utilities,"ABC Supplies","Mumbai WH",-50,0,58.43,162.39,1,North
+ORD002064,16/04/2024,P112,Pen,Maintenance,"XYZ Traders","Chennai WH",870,11,90.62,86.6,1,West
+ORD002065,23/02/2024,P222,Marker,Stationary,"LMN Corp","Mumbai WH",528,128,142.63,294.26,8,West
+ORD002066,2024/02/10,P237,"Printer Paper",Utilities,"Global Distributors","Pune WH",536,150,121.09,278.37,9,East
+ORD002067,2024/02/19,P203,Notebook,Utilities,"XYZ Traders","Delhi WH",127,70,174.26,185.93,6,West
+ORD002068,,P202,Pen,Stationary,"ABC Supplies","Pune WH",880,188,124.61,171.87,4,West
+ORD002069,2024-13-01,P298,"Printer Paper",Stationary,"ABC Supplies","Delhi WH",182,56,147.93,216.73,10,South
+ORD002070,2024/01/02,P185,"Printer Paper",Utilities,"XYZ Traders","Mumbai WH",149,25,140.79,136.83,2,West
+ORD002051,2024-13-01,P155,Pen,Stationary,"ABC Supplies","Chennai WH",916,164,105.79,253.61,8,West
+ORD002052,2024-11-22,P248,"Printer Paper",Maintenance,"LMN Corp","Pune WH",NULL,59,27.21,337.49,two,North
+ORD002053,,P248,Pen,Utilities,"Global Distributors","Delhi WH",?,93,169.56,334.57,5,North
+ORD002054,21/06/2024,P263,"Water Bottle",Maintenance,"LMN Corp","Delhi WH",236,14,49.42,80.33,,North
+ORD002055,,P189,"Cleaning Liquid",Maintenance,"ABC Supplies","Chennai WH",928,0,129.83,329.27,7,West
+ORD002056,,P118,"Printer Paper",Maintenance,"LMN Corp","Chennai WH",?,102,20.31,166.49,2,East
+ORD002057,2024/04/13,P241,"Water Bottle",Stationary,"LMN Corp","Pune WH",NULL,183,98.56,92.17,two,South
+ORD002058,2024-13-01,P252,Notebook,Utilities,"Global Distributors","Chennai WH",NULL,45,50.54,288.85,5,South
+ORD002059,2024/07/18,P229,Marker,Stationary,"XYZ Traders","Delhi WH",98,64,128.18,NULL,2,South
+ORD002060,2024/05/13,P257,"Cleaning Liquid",Maintenance,"LMN Corp","Chennai WH",759,87,64.75,131.81,3,West
+ORD002041,03/01/2024,P241,Marker,Utilities,"LMN Corp","Delhi WH",NULL,182,86.58,62.72,10,North
+ORD002042,2024/12/09,P256,"Printer Paper",Stationary,"ABC Supplies","Delhi WH",272,69,156.59,290.49,8,East
+ORD002043,2024/07/21,P282,"Cleaning Liquid",Maintenance,"ABC Supplies","Mumbai WH",696,136,39.72,253.34,10,West
+ORD002044,18/07/2024,P235,"Water Bottle",Maintenance,"XYZ Traders","Mumbai WH",929,149,61.95,109.73,4,South
+ORD002045,19/07/2024,P185,Pen,Stationary,"XYZ Traders","Pune WH",660,67,53.96,91.98,8,South
+ORD002046,06/09/2024,P297,"Cleaning Liquid",Utilities,"Global Distributors","Mumbai WH",468,101,58.38,58.56,10,South
+ORD002047,,P152,"Water Bottle",Stationary,"Global Distributors","Chennai WH",NULL,151,?,236.12,2,East
+ORD002048,2024/09/20,P153,Notebook,Stationary,"Global Distributors","Delhi WH",969,182,151.53,124.42,1,North
+ORD002049,2024-13-01,P167,Notebook,Stationary,"Global Distributors","Mumbai WH",630,111,174.15,221.88,two,North
+ORD002050,2024/07/14,P239,"Cleaning Liquid",Utilities,"ABC Supplies","Mumbai WH",438,145,51.24,159.5,,North
+ORD002031,,P232,"Water Bottle",Maintenance,"ABC Supplies","Delhi WH",NULL,101,?,92.66,8,North
+ORD002032,2024-13-01,P159,Notebook,Stationary,"LMN Corp","Delhi WH",327,NULL,41.29,NULL,8,East
+ORD002033,10/09/2024,P152,Notebook,Stationary,"Global Distributors","Pune WH",308,0,49.06,124.68,5,West
+ORD002034,2024-13-01,P157,"Printer Paper",Utilities,"LMN Corp","Pune WH",NULL,36,114.24,124.78,,South
+ORD002035,,P215,Notebook,Maintenance,"LMN Corp","Delhi WH",429,1,103.66,303.97,4,East
+ORD002036,2024/12/26,P267,Notebook,Utilities,"ABC Supplies","Delhi WH",174,29,115.53,260.21,9,North
+ORD002037,,P161,Pen,Stationary,"ABC Supplies","Mumbai WH",?,199,?,272.51,5,South
+ORD002038,2024/02/09,P216,Marker,Stationary,"XYZ Traders","Pune WH",814,17,10.54,133.85,10,East
+ORD002039,,P186,"Water Bottle",Maintenance,"LMN Corp","Mumbai WH",NULL,158,143.05,198.61,10,South
+ORD002040,25/09/2024,P167,Pen,Utilities,"LMN Corp","Chennai WH",253,150,87.48,227.06,10,South
+ORD002021,2024/05/09,P189,Notebook,Utilities,"XYZ Traders","Pune WH",?,123,56.58,309.83,1,West
+ORD002022,20/06/2024,P100,Marker,Stationary,"XYZ Traders","Delhi WH",302,30,91.25,157.61,two,West
+ORD002023,,P250,"Water Bottle",Stationary,"LMN Corp","Pune WH",NULL,NULL,63.17,279.03,,South
+ORD002024,,P131,Pen,Maintenance,"LMN Corp","Chennai WH",262,0,127.97,276.71,,South
+ORD002025,29/09/2024,P159,Notebook,Utilities,"ABC Supplies","Chennai WH",861,149,125.25,121.33,two,North
+ORD002026,2024/11/18,P290,"Printer Paper",Maintenance,"XYZ Traders","Chennai WH",515,146,45.88,295,two,East
+ORD002027,,P278,Notebook,Maintenance,"ABC Supplies","Mumbai WH",813,125,33.78,235.3,9,West
+ORD002028,2024-13-01,P274,"Printer Paper",Maintenance,"XYZ Traders","Mumbai WH",?,159,193.41,127.08,two,South
+ORD002029,,P134,Marker,Maintenance,"XYZ Traders","Mumbai WH",8,72,173.04,119.36,,North
+ORD002030,,P188,Pen,Utilities,"Global Distributors","Mumbai WH",?,153,87.22,182.67,3,South
+ORD002011,,P116,Pen,Utilities,"Global Distributors","Pune WH",761,97,140.01,340.69,8,East
+ORD002012,2024/07/28,P252,"Printer Paper",Stationary,"LMN Corp","Mumbai WH",NULL,157,20.75,331.32,10,East
+ORD002013,2024-13-01,P276,Notebook,Stationary,"ABC Supplies","Delhi WH",473,178,176.32,279.29,,South
+ORD002014,,P173,Notebook,Utilities,"ABC Supplies","Pune WH",385,192,153.03,326.76,,West
+ORD002015,2024-13-01,P262,"Cleaning Liquid",Maintenance,"LMN Corp","Pune WH",886,0,122.71,342.71,3,West
+ORD002016,2024/02/15,P224,"Water Bottle",Maintenance,"Global Distributors","Delhi WH",547,0,69.8,222.49,8,North
+ORD002017,2024-02-12,P106,"Water Bottle",Maintenance,"XYZ Traders","Delhi WH",434,68,144.93,274.43,two,West
+ORD002018,,P103,"Cleaning Liquid",Maintenance,"LMN Corp","Pune WH",283,50,87.85,90.35,,North
+ORD002019,,P266,"Cleaning Liquid",Stationary,"XYZ Traders","Pune WH",39,119,94.05,237.73,,North
+ORD002020,2024-01-03,P188,Notebook,Utilities,"XYZ Traders","Mumbai WH",209,75,80.48,135.26,9,East
+ORD002001,,P243,"Cleaning Liquid",Utilities,"ABC Supplies","Mumbai WH",455,123,158.13,203.3,,East
+ORD002002,2024-03-18,P216,Notebook,Utilities,"XYZ Traders","Mumbai WH",368,171,72.83,125.87,9,North
+ORD002003,2024-03-04,P192,"Water Bottle",Utilities,"XYZ Traders","Pune WH",882,84,149.44,178.69,9,East
+ORD002004,2024-13-01,P244,Pen,Utilities,"Global Distributors","Delhi WH",572,79,70.98,118.93,8,South
+ORD002005,,P178,Pen,Maintenance,"XYZ Traders","Delhi WH",NULL,98,13.89,NULL,1,East
+ORD002006,2024-13-01,P156,Marker,Utilities,"Global Distributors","Pune WH",139,75,200.27,251.33,,North
+ORD002007,2024-13-01,P279,Notebook,Utilities,"XYZ Traders","Mumbai WH",64,41,102.64,336.07,5,North
+ORD002008,2024/08/17,P294,"Cleaning Liquid",Stationary,"ABC Supplies","Chennai WH",26,82,51.21,114.53,5,North
+ORD002009,06/01/2024,P259,"Cleaning Liquid",Utilities,"Global Distributors","Pune WH",55,0,?,241.25,10,North
