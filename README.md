@@ -24,7 +24,7 @@ The objective is to:
 
 ## 📂 Dataset
 
-* Generated **50,000+ rows of messy supply chain data**
+* Generated **1000+ rows of messy supply chain data**
 * Includes:
 
   * Order details
